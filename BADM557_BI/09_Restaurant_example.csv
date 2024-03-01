@@ -1,0 +1,1162 @@
+rating,food_rating,service_rating,alcohol,smoking_area,dress_code,accessibility,price,Rambience,franchise,area
+0,2,0,No_Alcohol_Served,permitted,informal,no_accessibility,low,familiar,f,open
+0,0,0,No_Alcohol_Served,permitted,informal,no_accessibility,low,familiar,f,open
+1,2,1,No_Alcohol_Served,permitted,informal,no_accessibility,low,familiar,f,open
+1,0,0,No_Alcohol_Served,permitted,informal,no_accessibility,low,familiar,f,open
+1,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,0,0,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,closed
+0,0,1,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,closed
+1,1,2,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,closed
+1,0,1,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,closed
+1,2,0,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,closed
+1,2,1,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,closed
+1,1,0,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,closed
+1,0,0,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,closed
+1,2,2,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,closed
+1,2,1,No_Alcohol_Served,not permitted,informal,partially,low,familiar,t,closed
+0,0,0,No_Alcohol_Served,not permitted,informal,partially,low,familiar,t,closed
+1,0,2,No_Alcohol_Served,not permitted,informal,partially,low,familiar,t,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,partially,low,familiar,t,closed
+0,0,0,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t,closed
+2,1,1,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t,closed
+1,2,0,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t,closed
+1,2,1,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t,closed
+1,2,1,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,open
+1,1,1,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,open
+1,1,1,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,open
+0,2,0,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,open
+0,0,0,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,open
+1,1,1,No_Alcohol_Served,permitted,informal,completely,low,quiet,t,open
+0,0,0,No_Alcohol_Served,permitted,informal,completely,low,quiet,t,open
+2,2,2,No_Alcohol_Served,permitted,informal,completely,low,quiet,t,open
+2,2,1,No_Alcohol_Served,permitted,informal,completely,low,quiet,t,open
+1,2,1,No_Alcohol_Served,permitted,informal,completely,low,quiet,t,open
+0,0,0,No_Alcohol_Served,permitted,informal,completely,low,quiet,t,open
+1,0,1,No_Alcohol_Served,not permitted,informal,completely,low,quiet,t,closed
+1,2,1,No_Alcohol_Served,not permitted,informal,completely,low,quiet,t,closed
+1,1,1,No_Alcohol_Served,not permitted,informal,completely,low,quiet,t,closed
+0,0,0,No_Alcohol_Served,not permitted,informal,completely,low,quiet,t,closed
+0,0,0,No_Alcohol_Served,not permitted,informal,completely,low,quiet,t,closed
+2,2,2,No_Alcohol_Served,permitted,informal,completely,medium,familiar,t,closed
+1,2,1,No_Alcohol_Served,permitted,informal,completely,medium,familiar,t,closed
+2,2,2,No_Alcohol_Served,permitted,informal,completely,medium,familiar,t,closed
+1,1,0,No_Alcohol_Served,permitted,informal,completely,medium,familiar,t,closed
+0,0,0,No_Alcohol_Served,permitted,informal,completely,medium,familiar,t,closed
+1,1,1,No_Alcohol_Served,permitted,informal,completely,medium,familiar,t,closed
+2,2,2,No_Alcohol_Served,none,informal,completely,medium,familiar,t,closed
+2,2,1,No_Alcohol_Served,none,informal,completely,medium,familiar,t,closed
+1,0,1,No_Alcohol_Served,none,informal,completely,medium,familiar,t,closed
+0,0,0,No_Alcohol_Served,none,informal,completely,medium,familiar,t,closed
+2,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,2,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,0,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+2,2,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,0,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,2,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,2,1,No_Alcohol_Served,none,informal,completely,low,familiar,t,closed
+2,2,1,No_Alcohol_Served,none,informal,completely,low,familiar,t,closed
+1,2,1,No_Alcohol_Served,none,informal,completely,low,familiar,t,closed
+1,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,t,closed
+2,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+2,1,2,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,t,closed
+1,2,1,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,t,closed
+0,2,0,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,t,closed
+0,0,1,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,t,closed
+1,1,0,No_Alcohol_Served,none,informal,no_accessibility,low,quiet,f,open
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,low,quiet,f,open
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,low,quiet,f,open
+2,2,1,No_Alcohol_Served,none,informal,no_accessibility,low,quiet,f,open
+2,2,2,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,f,closed
+2,2,1,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,f,closed
+1,2,1,Full_Bar,section,informal,completely,medium,familiar,f,closed
+2,2,2,Full_Bar,section,informal,completely,medium,familiar,f,closed
+0,0,0,Full_Bar,section,informal,completely,medium,familiar,f,closed
+1,1,1,Full_Bar,section,informal,completely,medium,familiar,f,closed
+1,0,1,Full_Bar,section,informal,completely,medium,familiar,f,closed
+1,1,1,Full_Bar,section,informal,completely,medium,familiar,f,closed
+2,2,2,Full_Bar,section,informal,completely,medium,familiar,f,closed
+1,0,1,Full_Bar,section,informal,completely,medium,familiar,f,closed
+2,2,2,Full_Bar,section,informal,completely,medium,familiar,f,closed
+2,2,1,Full_Bar,section,informal,completely,medium,familiar,f,closed
+2,2,2,Full_Bar,section,informal,completely,medium,familiar,f,closed
+2,2,1,Full_Bar,section,informal,completely,medium,familiar,f,closed
+0,0,2,No_Alcohol_Served,none,casual,completely,low,familiar,f,open
+2,2,1,No_Alcohol_Served,none,casual,completely,low,familiar,f,open
+0,1,1,No_Alcohol_Served,none,casual,completely,low,familiar,f,open
+0,0,0,No_Alcohol_Served,none,casual,completely,low,familiar,f,open
+1,1,1,No_Alcohol_Served,none,casual,completely,low,familiar,f,open
+0,0,0,No_Alcohol_Served,none,casual,completely,low,familiar,f,open
+1,2,2,No_Alcohol_Served,none,casual,completely,low,familiar,f,open
+1,1,1,No_Alcohol_Served,none,casual,completely,low,familiar,f,open
+2,1,2,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t,closed
+1,1,0,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t,closed
+0,0,0,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t,closed
+1,2,1,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t,closed
+1,1,1,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t,closed
+1,1,1,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t,closed
+1,1,1,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t,closed
+1,1,1,No_Alcohol_Served,permitted,informal,completely,low,familiar,f,open
+1,2,1,No_Alcohol_Served,permitted,informal,completely,low,familiar,f,open
+2,2,1,No_Alcohol_Served,permitted,informal,completely,low,familiar,f,open
+0,0,0,No_Alcohol_Served,permitted,informal,completely,low,familiar,f,open
+0,2,0,No_Alcohol_Served,permitted,informal,completely,low,familiar,f,open
+1,1,1,No_Alcohol_Served,permitted,informal,completely,low,familiar,f,open
+0,0,0,No_Alcohol_Served,permitted,informal,completely,low,familiar,f,open
+1,2,1,No_Alcohol_Served,permitted,informal,completely,low,familiar,f,open
+2,1,1,No_Alcohol_Served,none,informal,partially,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,partially,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,partially,medium,familiar,f,closed
+2,1,2,No_Alcohol_Served,none,informal,partially,medium,familiar,f,closed
+1,2,1,No_Alcohol_Served,none,informal,partially,medium,familiar,f,closed
+1,2,1,No_Alcohol_Served,none,informal,partially,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,partially,medium,familiar,f,closed
+2,2,1,No_Alcohol_Served,none,informal,partially,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,partially,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,partially,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,partially,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,partially,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,partially,medium,familiar,f,closed
+1,2,1,No_Alcohol_Served,none,informal,partially,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,partially,medium,familiar,f,closed
+2,2,1,No_Alcohol_Served,none,informal,partially,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,partially,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,partially,medium,familiar,f,closed
+1,1,0,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,1,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,1,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,Wine-Beer,permitted,casual,partially,medium,familiar,f,open
+2,2,2,Wine-Beer,permitted,casual,partially,medium,familiar,f,open
+1,2,1,Wine-Beer,permitted,casual,partially,medium,familiar,f,open
+0,0,0,Wine-Beer,permitted,casual,partially,medium,familiar,f,open
+2,2,2,Wine-Beer,permitted,casual,partially,medium,familiar,f,open
+2,2,2,Wine-Beer,permitted,casual,partially,medium,familiar,f,open
+2,2,2,No_Alcohol_Served,not permitted,casual,partially,medium,familiar,t,closed
+0,0,0,No_Alcohol_Served,not permitted,casual,partially,medium,familiar,t,closed
+2,2,2,No_Alcohol_Served,not permitted,casual,partially,medium,familiar,t,closed
+2,2,2,No_Alcohol_Served,not permitted,casual,partially,medium,familiar,t,closed
+1,1,1,No_Alcohol_Served,not permitted,casual,partially,medium,familiar,t,closed
+2,2,1,No_Alcohol_Served,not permitted,casual,partially,medium,familiar,t,closed
+1,2,1,No_Alcohol_Served,not permitted,casual,partially,medium,familiar,t,closed
+2,2,2,No_Alcohol_Served,not permitted,casual,partially,medium,familiar,t,closed
+2,2,2,No_Alcohol_Served,not permitted,casual,partially,medium,familiar,t,closed
+2,2,1,No_Alcohol_Served,not permitted,casual,partially,medium,familiar,t,closed
+2,1,2,Wine-Beer,permitted,informal,no_accessibility,low,familiar,f,open
+1,2,2,Wine-Beer,permitted,informal,no_accessibility,low,familiar,f,open
+1,1,1,Wine-Beer,permitted,informal,no_accessibility,low,familiar,f,open
+2,1,2,Wine-Beer,permitted,informal,no_accessibility,low,familiar,f,open
+1,2,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+1,2,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+2,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+2,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+2,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+1,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+2,2,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+1,1,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+1,1,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+2,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+2,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+1,1,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+2,2,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+1,2,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+1,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+1,1,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+2,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+2,2,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+2,2,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+2,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+1,2,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+2,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+2,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+0,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+2,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+1,0,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+2,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,open
+1,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+0,1,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+2,2,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+0,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f,closed
+0,2,1,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f,closed
+1,2,2,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f,closed
+1,0,1,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f,closed
+2,1,1,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f,closed
+0,1,0,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f,closed
+1,2,1,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f,closed
+2,2,1,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f,closed
+1,1,0,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f,closed
+2,1,1,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f,closed
+1,0,0,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f,closed
+1,2,1,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f,closed
+1,2,1,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,f,closed
+2,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,0,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,permitted,casual,no_accessibility,low,familiar,f,open
+2,2,2,No_Alcohol_Served,permitted,casual,no_accessibility,low,familiar,f,open
+0,0,0,No_Alcohol_Served,permitted,casual,no_accessibility,low,familiar,f,open
+2,2,1,No_Alcohol_Served,permitted,casual,no_accessibility,low,familiar,f,open
+1,1,1,No_Alcohol_Served,permitted,casual,no_accessibility,low,familiar,f,open
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,low,familiar,f,open
+2,2,0,No_Alcohol_Served,none,informal,no_accessibility,low,familiar,f,open
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,low,familiar,f,open
+0,2,0,No_Alcohol_Served,none,informal,no_accessibility,low,familiar,f,open
+2,1,1,No_Alcohol_Served,none,informal,no_accessibility,low,familiar,f,open
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,low,familiar,f,open
+1,1,1,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,closed
+1,0,2,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,closed
+2,1,0,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,closed
+1,0,0,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,closed
+2,2,1,No_Alcohol_Served,not permitted,informal,completely,low,familiar,f,closed
+2,2,1,Wine-Beer,none,informal,completely,medium,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,completely,medium,familiar,f,closed
+1,2,0,Wine-Beer,none,informal,completely,medium,familiar,f,closed
+1,2,2,Wine-Beer,none,informal,completely,medium,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,completely,medium,familiar,f,closed
+0,0,0,Wine-Beer,none,informal,completely,medium,familiar,f,closed
+0,0,0,Wine-Beer,none,informal,completely,low,familiar,f,closed
+1,2,1,Wine-Beer,none,informal,completely,low,familiar,f,closed
+0,1,1,Wine-Beer,none,informal,completely,low,familiar,f,closed
+0,1,0,Wine-Beer,none,informal,completely,low,familiar,f,closed
+1,1,0,Wine-Beer,none,informal,completely,low,familiar,f,closed
+0,0,0,Wine-Beer,none,informal,completely,low,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,completely,low,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,completely,low,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,completely,low,familiar,f,closed
+0,1,0,Wine-Beer,none,informal,completely,low,familiar,f,closed
+1,0,1,Wine-Beer,none,informal,completely,low,familiar,f,closed
+1,2,2,Wine-Beer,none,informal,completely,low,familiar,f,closed
+1,1,0,Wine-Beer,none,informal,completely,low,familiar,f,closed
+1,1,1,Wine-Beer,none,informal,completely,low,familiar,f,closed
+0,2,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,2,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+2,2,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,2,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t,closed
+2,2,1,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t,closed
+1,1,1,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t,closed
+2,2,1,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t,closed
+1,1,1,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t,closed
+1,2,2,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,t,closed
+2,2,2,Wine-Beer,none,casual,completely,high,familiar,f,closed
+0,0,0,Wine-Beer,none,casual,completely,high,familiar,f,closed
+2,2,2,Wine-Beer,none,casual,completely,high,familiar,f,closed
+0,0,0,Wine-Beer,none,casual,completely,high,familiar,f,closed
+1,1,1,Wine-Beer,none,casual,completely,high,familiar,f,closed
+2,1,2,Wine-Beer,none,casual,completely,high,familiar,f,closed
+2,2,2,Wine-Beer,none,casual,completely,high,familiar,f,closed
+1,2,2,Wine-Beer,none,casual,completely,high,familiar,f,closed
+2,2,2,Wine-Beer,none,casual,completely,high,familiar,f,closed
+2,2,2,Wine-Beer,none,casual,completely,high,familiar,f,closed
+1,2,2,Wine-Beer,none,casual,completely,high,familiar,f,closed
+2,2,2,Wine-Beer,none,casual,completely,high,familiar,f,closed
+1,1,1,Wine-Beer,none,casual,completely,high,familiar,f,closed
+2,2,2,Wine-Beer,none,casual,completely,high,familiar,f,closed
+2,2,2,Wine-Beer,none,casual,completely,high,familiar,f,closed
+2,2,2,Wine-Beer,none,casual,completely,high,familiar,f,closed
+0,0,0,Wine-Beer,none,casual,completely,high,familiar,f,closed
+1,0,0,Wine-Beer,none,casual,completely,high,familiar,f,closed
+2,2,1,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,f,closed
+0,1,1,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,f,closed
+2,1,2,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,f,closed
+1,1,2,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+1,2,1,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+2,2,1,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,not permitted,informal,no_accessibility,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,not permitted,informal,no_accessibility,low,familiar,f,closed
+0,2,0,No_Alcohol_Served,not permitted,informal,no_accessibility,low,familiar,f,closed
+2,2,0,No_Alcohol_Served,not permitted,informal,no_accessibility,low,familiar,f,closed
+0,0,1,No_Alcohol_Served,not permitted,informal,no_accessibility,low,familiar,f,closed
+1,1,2,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,f,closed
+2,2,1,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,f,closed
+1,2,2,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,f,closed
+0,2,2,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,f,closed
+2,2,1,Wine-Beer,section,informal,no_accessibility,high,familiar,t,open
+0,0,0,Wine-Beer,section,informal,no_accessibility,high,familiar,t,open
+1,1,1,Wine-Beer,section,informal,no_accessibility,high,familiar,t,open
+0,0,0,Wine-Beer,section,informal,no_accessibility,high,familiar,t,open
+1,1,1,Wine-Beer,section,informal,no_accessibility,high,familiar,t,open
+1,2,2,Wine-Beer,section,informal,no_accessibility,high,familiar,t,open
+2,2,2,Wine-Beer,section,informal,no_accessibility,high,familiar,t,open
+2,2,2,Wine-Beer,section,informal,no_accessibility,high,familiar,t,open
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+0,0,0,Wine-Beer,section,casual,completely,low,quiet,f,open
+1,1,1,Wine-Beer,section,casual,completely,low,quiet,f,open
+2,1,2,Wine-Beer,section,casual,completely,low,quiet,f,open
+1,1,1,Wine-Beer,section,casual,completely,low,quiet,f,open
+2,2,1,Wine-Beer,section,casual,completely,low,quiet,f,open
+0,0,0,Wine-Beer,section,casual,completely,low,quiet,f,open
+2,2,2,Wine-Beer,section,casual,completely,low,quiet,f,open
+1,2,1,Wine-Beer,section,casual,completely,low,quiet,f,open
+1,1,1,Wine-Beer,section,casual,completely,low,quiet,f,open
+2,2,1,Wine-Beer,section,casual,completely,low,quiet,f,open
+2,2,1,Wine-Beer,section,casual,completely,low,quiet,f,open
+1,2,1,Wine-Beer,section,casual,completely,low,quiet,f,open
+2,1,1,Wine-Beer,section,casual,completely,low,quiet,f,open
+1,1,1,Wine-Beer,section,casual,completely,low,quiet,f,open
+0,0,0,Wine-Beer,section,casual,completely,low,quiet,f,open
+2,1,1,Wine-Beer,section,casual,completely,low,quiet,f,open
+1,0,0,Wine-Beer,section,casual,completely,low,quiet,f,open
+1,1,1,No_Alcohol_Served,permitted,formal,completely,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,permitted,formal,completely,medium,familiar,f,closed
+2,1,2,No_Alcohol_Served,permitted,formal,completely,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,permitted,formal,completely,medium,familiar,f,closed
+2,1,2,No_Alcohol_Served,permitted,formal,completely,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,permitted,formal,completely,medium,familiar,f,closed
+1,2,1,Wine-Beer,not permitted,informal,completely,medium,familiar,f,closed
+2,2,2,Wine-Beer,not permitted,informal,completely,medium,familiar,f,closed
+0,0,0,Wine-Beer,not permitted,informal,completely,medium,familiar,f,closed
+1,1,1,Wine-Beer,not permitted,informal,completely,medium,familiar,f,closed
+1,1,2,Wine-Beer,not permitted,informal,completely,medium,familiar,f,closed
+2,0,1,Full_Bar,section,informal,completely,low,quiet,f,closed
+1,1,1,Full_Bar,section,informal,completely,low,quiet,f,closed
+1,1,1,Full_Bar,section,informal,completely,low,quiet,f,closed
+2,2,1,Full_Bar,section,informal,completely,low,quiet,f,closed
+1,1,2,No_Alcohol_Served,not permitted,casual,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,not permitted,casual,completely,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,casual,completely,low,familiar,f,closed
+2,1,0,No_Alcohol_Served,not permitted,casual,completely,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,not permitted,casual,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,not permitted,casual,completely,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,casual,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,not permitted,casual,completely,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,not permitted,casual,completely,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,not permitted,casual,completely,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,t,closed
+0,0,0,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,t,closed
+1,1,1,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,t,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,t,closed
+1,1,0,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,t,closed
+2,1,2,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,t,closed
+0,0,1,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,t,closed
+0,0,0,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,t,closed
+1,0,0,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,t,closed
+2,2,1,Wine-Beer,none,informal,completely,low,familiar,t,closed
+2,2,2,Wine-Beer,none,informal,completely,low,familiar,t,closed
+2,2,2,Wine-Beer,none,informal,completely,low,familiar,t,closed
+2,1,2,Wine-Beer,none,informal,completely,low,familiar,t,closed
+2,2,2,Wine-Beer,none,informal,completely,low,familiar,t,closed
+2,2,2,No_Alcohol_Served,none,informal,completely,low,quiet,t,closed
+2,2,2,No_Alcohol_Served,none,informal,completely,low,quiet,t,closed
+2,2,2,No_Alcohol_Served,none,informal,completely,low,quiet,t,closed
+1,0,0,No_Alcohol_Served,none,informal,completely,low,quiet,t,closed
+2,1,1,No_Alcohol_Served,none,informal,completely,low,quiet,t,closed
+1,2,2,No_Alcohol_Served,none,informal,completely,low,quiet,t,closed
+2,2,2,Full_Bar,section,informal,completely,high,familiar,f,closed
+1,1,1,Full_Bar,section,informal,completely,high,familiar,f,closed
+2,1,1,Full_Bar,section,informal,completely,high,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,low,familiar,f,closed
+2,2,1,No_Alcohol_Served,none,informal,no_accessibility,low,familiar,f,closed
+2,2,1,No_Alcohol_Served,none,informal,no_accessibility,low,familiar,f,closed
+1,1,0,No_Alcohol_Served,none,informal,no_accessibility,low,familiar,f,closed
+2,2,2,Full_Bar,section,informal,no_accessibility,high,familiar,f,closed
+1,1,1,Full_Bar,section,informal,no_accessibility,high,familiar,f,closed
+0,0,0,Full_Bar,section,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Full_Bar,section,informal,no_accessibility,high,familiar,f,closed
+0,0,1,Full_Bar,section,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,none,formal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,none,formal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,none,formal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,none,formal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,none,formal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,none,formal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,none,formal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,none,formal,no_accessibility,high,familiar,f,closed
+2,0,2,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Wine-Beer,section,casual,no_accessibility,high,familiar,f,closed
+1,2,1,Wine-Beer,section,casual,no_accessibility,high,familiar,f,closed
+0,0,0,Wine-Beer,section,casual,no_accessibility,high,familiar,f,closed
+1,2,1,Wine-Beer,section,casual,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,only at bar,informal,no_accessibility,medium,familiar,t,closed
+0,0,0,Wine-Beer,only at bar,informal,no_accessibility,medium,familiar,t,closed
+2,1,2,Wine-Beer,only at bar,informal,no_accessibility,medium,familiar,t,closed
+2,1,1,Wine-Beer,only at bar,informal,no_accessibility,medium,familiar,t,closed
+2,2,2,Wine-Beer,only at bar,informal,no_accessibility,medium,familiar,t,closed
+1,1,2,Wine-Beer,only at bar,informal,no_accessibility,medium,familiar,t,closed
+2,2,2,Wine-Beer,only at bar,informal,no_accessibility,medium,familiar,t,closed
+1,1,1,Wine-Beer,only at bar,informal,no_accessibility,medium,familiar,t,closed
+2,2,2,Wine-Beer,only at bar,informal,no_accessibility,medium,familiar,t,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,completely,medium,familiar,t,closed
+2,2,2,Wine-Beer,none,informal,completely,medium,familiar,t,closed
+2,2,2,Wine-Beer,none,informal,completely,medium,familiar,t,closed
+2,2,2,Wine-Beer,none,informal,completely,medium,familiar,t,closed
+1,1,2,Wine-Beer,none,informal,completely,medium,familiar,t,closed
+1,1,1,Wine-Beer,none,informal,completely,medium,familiar,t,closed
+0,0,0,Wine-Beer,none,informal,completely,medium,familiar,t,closed
+1,1,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,t,closed
+2,1,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,t,closed
+1,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,t,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,low,familiar,f,closed
+1,2,2,No_Alcohol_Served,none,informal,no_accessibility,low,familiar,f,closed
+2,2,1,No_Alcohol_Served,none,informal,no_accessibility,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Full_Bar,permitted,informal,completely,medium,familiar,f,open
+2,2,2,Full_Bar,permitted,informal,completely,medium,familiar,f,open
+1,2,1,Full_Bar,permitted,informal,completely,medium,familiar,f,open
+1,1,1,Full_Bar,permitted,informal,completely,medium,familiar,f,open
+1,2,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+2,1,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,2,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+2,1,1,No_Alcohol_Served,not permitted,informal,no_accessibility,low,familiar,t,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,no_accessibility,low,familiar,t,closed
+2,0,0,No_Alcohol_Served,not permitted,informal,no_accessibility,low,familiar,t,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,no_accessibility,low,familiar,t,closed
+2,1,0,No_Alcohol_Served,not permitted,informal,no_accessibility,low,familiar,t,closed
+1,2,0,No_Alcohol_Served,not permitted,informal,no_accessibility,low,familiar,t,closed
+1,2,1,No_Alcohol_Served,not permitted,informal,no_accessibility,low,familiar,t,closed
+0,0,0,No_Alcohol_Served,not permitted,informal,no_accessibility,low,familiar,t,closed
+0,0,0,No_Alcohol_Served,not permitted,informal,no_accessibility,low,familiar,t,closed
+2,1,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+1,0,2,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+1,0,1,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+1,1,1,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+0,0,0,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+1,1,1,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+0,1,1,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,0,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,1,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,0,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+0,1,1,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+0,2,2,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+0,1,1,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,1,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,0,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,2,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,0,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,quiet,f,closed
+1,1,2,No_Alcohol_Served,none,informal,no_accessibility,medium,quiet,f,closed
+1,0,1,No_Alcohol_Served,none,informal,no_accessibility,medium,quiet,f,closed
+2,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,quiet,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,quiet,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,quiet,f,closed
+1,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,quiet,f,closed
+2,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,quiet,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,quiet,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,quiet,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,quiet,f,closed
+2,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,quiet,f,closed
+1,1,1,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+0,1,1,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+2,1,1,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+2,1,1,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+1,1,0,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+1,1,2,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+1,0,1,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+2,1,2,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+2,2,1,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+2,1,2,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+1,2,1,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+2,2,1,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+1,1,2,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+1,1,2,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f,closed
+2,2,2,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f,closed
+1,1,1,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f,closed
+1,1,1,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f,closed
+2,2,2,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+1,2,0,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+0,1,1,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+2,2,1,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+1,1,0,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+2,1,1,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+2,2,1,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+1,2,2,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+2,1,2,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+1,1,0,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+1,0,1,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+2,2,1,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+1,1,0,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+2,1,2,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+2,2,1,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+2,2,1,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+2,1,1,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+2,2,0,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+0,0,1,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+0,0,0,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+1,1,1,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+0,0,0,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+0,0,0,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,0,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,1,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,0,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,2,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+0,1,1,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,1,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,1,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,Wine-Beer,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,1,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,2,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,0,Wine-Beer,none,casual,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,none,casual,no_accessibility,high,familiar,f,closed
+0,0,0,Wine-Beer,none,casual,no_accessibility,high,familiar,f,closed
+2,1,2,Wine-Beer,none,casual,no_accessibility,high,familiar,f,closed
+1,1,1,Wine-Beer,none,casual,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,none,casual,no_accessibility,high,familiar,f,closed
+2,1,1,Wine-Beer,none,casual,no_accessibility,high,familiar,f,closed
+0,0,0,Wine-Beer,none,casual,no_accessibility,high,familiar,f,closed
+2,1,2,Wine-Beer,none,casual,no_accessibility,high,familiar,f,closed
+1,2,2,Wine-Beer,none,casual,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,none,casual,no_accessibility,high,familiar,f,closed
+1,1,1,Wine-Beer,none,casual,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,none,casual,no_accessibility,high,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,1,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+1,1,1,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+0,0,0,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+0,0,0,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+1,1,1,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+1,1,1,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+1,1,1,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+1,1,2,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+0,0,0,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+0,1,0,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+1,2,2,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+2,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,0,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+0,0,0,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+0,1,0,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+1,2,1,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+2,1,1,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+1,0,0,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+1,1,2,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+1,2,1,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+1,2,2,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+1,1,0,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+2,1,1,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+2,2,0,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+2,2,0,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+2,0,2,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+1,1,0,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+2,1,2,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,f,closed
+2,0,2,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+0,0,0,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+0,0,0,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+1,1,1,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+0,0,0,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+1,1,1,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+2,2,1,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+2,1,1,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+2,1,0,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+1,1,1,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+0,1,1,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+1,2,2,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+2,1,1,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+0,0,0,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+0,0,0,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+0,0,0,Full_Bar,none,informal,no_accessibility,high,familiar,f,closed
+2,1,1,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f,closed
+2,2,0,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f,closed
+0,0,0,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f,closed
+2,2,2,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f,closed
+2,2,2,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f,closed
+0,0,0,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f,closed
+1,1,1,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f,closed
+0,0,0,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+1,2,1,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+2,1,2,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+0,0,1,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+2,1,1,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f,closed
+2,2,2,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f,closed
+2,2,2,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f,closed
+2,2,2,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f,closed
+2,2,2,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f,closed
+0,0,0,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f,closed
+2,2,2,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+0,1,0,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+1,1,2,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+1,1,2,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+1,2,2,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+1,0,2,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+2,1,1,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+1,1,0,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+1,2,1,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+2,2,1,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,t,closed
+1,0,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,t,closed
+1,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,t,closed
+2,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,t,closed
+0,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,t,closed
+1,1,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,t,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,t,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,t,closed
+2,2,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,t,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,t,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,t,closed
+1,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,t,closed
+2,0,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,t,closed
+2,1,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,t,closed
+1,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,t,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,t,closed
+2,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,t,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,t,closed
+1,2,1,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+2,1,1,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+2,2,1,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+2,1,0,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+2,0,2,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+2,1,1,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+0,2,2,Wine-Beer,section,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,0,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,0,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,0,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,0,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+0,2,0,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+0,1,1,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+2,2,1,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+1,1,0,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+1,1,0,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+1,1,0,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+2,2,0,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+0,0,0,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+1,1,1,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+1,1,1,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+0,0,0,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+0,0,0,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+1,1,1,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+2,1,1,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+0,0,0,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+2,1,2,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+1,0,1,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+2,1,2,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+2,1,2,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+1,1,1,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+2,1,1,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+1,1,1,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+0,0,0,Wine-Beer,none,informal,no_accessibility,low,familiar,f,closed
+0,0,0,Wine-Beer,none,informal,no_accessibility,low,familiar,f,closed
+1,0,1,Wine-Beer,none,informal,no_accessibility,low,familiar,f,closed
+1,1,1,Wine-Beer,none,informal,no_accessibility,low,familiar,f,closed
+0,1,1,Wine-Beer,none,informal,no_accessibility,low,familiar,f,closed
+0,1,0,Wine-Beer,none,informal,no_accessibility,low,familiar,f,closed
+0,0,1,Wine-Beer,none,informal,no_accessibility,low,familiar,f,closed
+1,1,1,Wine-Beer,none,informal,no_accessibility,low,familiar,f,closed
+0,0,0,Wine-Beer,none,informal,no_accessibility,low,familiar,f,closed
+1,0,1,Wine-Beer,none,informal,no_accessibility,low,familiar,f,closed
+1,2,2,Wine-Beer,none,informal,no_accessibility,low,familiar,f,closed
+1,0,1,Wine-Beer,none,informal,no_accessibility,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,1,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Full_Bar,section,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Full_Bar,section,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,Full_Bar,section,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,Full_Bar,section,informal,no_accessibility,medium,familiar,f,closed
+1,0,0,Full_Bar,section,informal,no_accessibility,medium,familiar,f,closed
+0,1,0,Full_Bar,section,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,Full_Bar,section,informal,no_accessibility,medium,familiar,f,closed
+1,0,1,Full_Bar,section,informal,no_accessibility,medium,familiar,f,closed
+1,0,0,Full_Bar,section,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,1,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+1,1,1,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+1,2,0,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+1,1,2,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+2,2,1,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,section,informal,no_accessibility,high,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,0,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+1,2,1,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+1,2,2,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+0,0,0,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+1,1,0,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+1,1,1,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+1,2,2,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+2,2,1,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+1,1,0,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+1,1,1,Wine-Beer,none,informal,no_accessibility,high,familiar,f,closed
+1,1,2,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+1,2,1,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+1,0,0,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+1,2,2,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+2,1,1,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+2,1,0,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+2,2,0,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,f,closed
+2,1,2,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f,closed
+2,2,2,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f,closed
+1,1,1,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f,closed
+0,1,1,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f,closed
+1,1,0,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f,closed
+0,0,0,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+1,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,1,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+2,1,2,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+2,2,0,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+1,2,1,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+2,1,2,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+2,2,1,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+1,2,1,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+2,1,1,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+1,2,1,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+2,2,1,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+1,2,1,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+0,1,1,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+1,2,0,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+1,2,1,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+1,2,0,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+0,0,0,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,f,closed
+1,1,1,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,t,closed
+0,0,0,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,t,closed
+1,1,2,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,t,closed
+2,0,1,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,t,closed
+1,0,2,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,t,closed
+0,0,0,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,t,closed
+1,1,1,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,t,closed
+0,0,0,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,t,closed
+1,2,1,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,t,closed
+1,1,0,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,t,closed
+1,1,1,No_Alcohol_Served,not permitted,informal,no_accessibility,low,quiet,f,closed
+1,1,2,No_Alcohol_Served,not permitted,informal,no_accessibility,low,quiet,f,closed
+0,1,0,No_Alcohol_Served,not permitted,informal,no_accessibility,low,quiet,f,closed
+1,2,0,No_Alcohol_Served,not permitted,informal,no_accessibility,low,quiet,f,closed
+2,2,2,No_Alcohol_Served,not permitted,informal,no_accessibility,low,quiet,f,closed
+1,0,1,No_Alcohol_Served,not permitted,informal,no_accessibility,low,quiet,f,closed
+1,2,0,Full_Bar,not permitted,informal,completely,medium,familiar,t,closed
+1,2,1,Full_Bar,not permitted,informal,completely,medium,familiar,t,closed
+1,2,1,Full_Bar,not permitted,informal,completely,medium,familiar,t,closed
+2,2,2,Full_Bar,not permitted,informal,completely,medium,familiar,t,closed
+1,1,2,Full_Bar,not permitted,informal,completely,medium,familiar,t,closed
+0,0,0,Full_Bar,not permitted,informal,completely,medium,familiar,t,closed
+0,1,0,Full_Bar,not permitted,informal,completely,medium,familiar,t,closed
+2,2,2,Wine-Beer,only at bar,informal,partially,medium,familiar,f,open
+2,2,2,Wine-Beer,only at bar,informal,partially,medium,familiar,f,open
+0,0,0,Wine-Beer,only at bar,informal,partially,medium,familiar,f,open
+2,2,2,Wine-Beer,only at bar,informal,partially,medium,familiar,f,open
+1,1,1,Wine-Beer,only at bar,informal,partially,medium,familiar,f,open
+1,1,1,Wine-Beer,only at bar,informal,partially,medium,familiar,f,open
+0,0,0,Wine-Beer,only at bar,informal,partially,medium,familiar,f,open
+2,2,2,Wine-Beer,only at bar,informal,partially,medium,familiar,f,open
+0,0,0,Wine-Beer,only at bar,informal,partially,medium,familiar,f,open
+2,2,2,Wine-Beer,only at bar,informal,partially,medium,familiar,f,open
+2,2,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+0,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+0,0,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,0,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+2,1,0,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+2,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,2,2,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+1,1,1,No_Alcohol_Served,none,informal,completely,low,familiar,f,closed
+2,2,1,Wine-Beer,not permitted,informal,no_accessibility,medium,quiet,f,closed
+0,0,0,Wine-Beer,not permitted,informal,no_accessibility,medium,quiet,f,closed
+1,2,1,Wine-Beer,not permitted,informal,no_accessibility,medium,quiet,f,closed
+1,1,1,Wine-Beer,not permitted,informal,no_accessibility,medium,quiet,f,closed
