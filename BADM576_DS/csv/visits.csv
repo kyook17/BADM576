@@ -1,0 +1,2001 @@
+VisitID,PatientID,ReasonForVisit,LengthOfStay,VisitOutcome
+1,994,Surgery,3,Improved
+2,483,In-Patient Treatment,8,Improved
+3,480,In-Patient Treatment,8,Unchanged
+4,834,Emergency,12,Improved
+5,228,In-Patient Treatment,2,Improved
+6,740,In-Patient Treatment,5,Improved
+7,881,In-Patient Treatment,4,Improved
+8,633,Emergency,13,Improved
+9,454,In-Patient Treatment,5,Unchanged
+10,686,Emergency,9,Unchanged
+11,140,Emergency,12,Unchanged
+12,570,In-Patient Treatment,6,Unchanged
+13,346,Surgery,13,Improved
+14,983,In-Patient Treatment,10,Unchanged
+15,649,Surgery,12,Improved
+16,349,Emergency,10,Improved
+17,266,Surgery,4,Improved
+18,424,In-Patient Treatment,6,Improved
+19,34,In-Patient Treatment,6,Unchanged
+20,979,In-Patient Treatment,15,Improved
+21,772,In-Patient Treatment,12,Unchanged
+22,960,Emergency,7,Improved
+23,384,In-Patient Treatment,12,Improved
+24,382,Emergency,12,Unchanged
+25,950,In-Patient Treatment,5,Improved
+26,12,In-Patient Treatment,9,Improved
+27,863,Emergency,4,Improved
+28,646,In-Patient Treatment,12,Improved
+29,241,Emergency,6,Improved
+30,233,Emergency,14,Improved
+31,829,Surgery,4,Deteriorated
+32,43,In-Patient Treatment,3,Unchanged
+33,981,Emergency,8,Unchanged
+34,505,Surgery,7,Unchanged
+35,868,Emergency,9,Improved
+36,644,In-Patient Treatment,10,Improved
+37,149,Emergency,9,Improved
+38,655,Emergency,9,Improved
+39,935,Emergency,4,Deteriorated
+40,115,In-Patient Treatment,15,Improved
+41,127,In-Patient Treatment,14,Improved
+42,130,Surgery,4,Improved
+43,816,In-Patient Treatment,5,Improved
+44,177,Emergency,12,Improved
+45,752,In-Patient Treatment,5,Improved
+46,291,Emergency,15,Improved
+47,277,In-Patient Treatment,12,Improved
+48,664,In-Patient Treatment,6,Improved
+49,699,Surgery,14,Improved
+50,556,Surgery,11,Unchanged
+51,378,Emergency,13,Improved
+52,270,In-Patient Treatment,10,Improved
+53,480,Emergency,2,Deteriorated
+54,63,Emergency,14,Improved
+55,739,Emergency,3,Unchanged
+56,87,In-Patient Treatment,10,Unchanged
+57,851,Emergency,15,Improved
+58,608,Emergency,3,Unchanged
+59,40,Surgery,4,Unchanged
+60,362,In-Patient Treatment,8,Improved
+61,794,Emergency,9,Improved
+62,781,Emergency,3,Unchanged
+63,397,In-Patient Treatment,5,Unchanged
+64,251,In-Patient Treatment,8,Improved
+65,927,In-Patient Treatment,14,Improved
+66,841,In-Patient Treatment,11,Unchanged
+67,155,In-Patient Treatment,9,Improved
+68,133,Emergency,9,Improved
+69,294,Emergency,11,Unchanged
+70,946,Emergency,11,Improved
+71,351,Surgery,4,Improved
+72,850,In-Patient Treatment,10,Unchanged
+73,802,In-Patient Treatment,3,Unchanged
+74,435,Emergency,9,Improved
+75,279,In-Patient Treatment,14,Improved
+76,941,In-Patient Treatment,8,Improved
+77,128,In-Patient Treatment,1,Deteriorated
+78,530,In-Patient Treatment,9,Improved
+79,129,Surgery,2,Improved
+80,427,In-Patient Treatment,7,Improved
+81,807,In-Patient Treatment,9,Unchanged
+82,159,In-Patient Treatment,15,Improved
+83,553,Emergency,12,Improved
+84,28,In-Patient Treatment,6,Improved
+85,394,Emergency,7,Unchanged
+86,315,In-Patient Treatment,8,Improved
+87,388,In-Patient Treatment,12,Improved
+88,569,Emergency,4,Improved
+89,352,In-Patient Treatment,8,Unchanged
+90,187,In-Patient Treatment,8,Improved
+91,690,In-Patient Treatment,2,Improved
+92,484,Surgery,13,Improved
+93,297,In-Patient Treatment,2,Deteriorated
+94,882,Emergency,13,Improved
+95,658,In-Patient Treatment,4,Deteriorated
+96,117,In-Patient Treatment,10,Unchanged
+97,86,In-Patient Treatment,12,Improved
+98,742,Surgery,14,Improved
+99,995,In-Patient Treatment,15,Improved
+100,840,In-Patient Treatment,11,Improved
+101,19,In-Patient Treatment,7,Improved
+102,19,In-Patient Treatment,2,Improved
+103,748,In-Patient Treatment,12,Unchanged
+104,352,Emergency,6,Improved
+105,842,In-Patient Treatment,9,Unchanged
+106,744,In-Patient Treatment,14,Improved
+107,447,Emergency,7,Improved
+108,112,In-Patient Treatment,11,Unchanged
+109,358,In-Patient Treatment,9,Improved
+110,353,In-Patient Treatment,6,Unchanged
+111,485,Emergency,14,Improved
+112,1,In-Patient Treatment,12,Improved
+113,693,In-Patient Treatment,7,Unchanged
+114,770,In-Patient Treatment,8,Improved
+115,761,Emergency,9,Improved
+116,481,In-Patient Treatment,1,Deteriorated
+117,111,Emergency,10,Improved
+118,433,Surgery,12,Unchanged
+119,975,Emergency,6,Unchanged
+120,172,In-Patient Treatment,6,Unchanged
+121,273,In-Patient Treatment,14,Improved
+122,831,In-Patient Treatment,9,Improved
+123,84,In-Patient Treatment,3,Unchanged
+124,47,In-Patient Treatment,9,Improved
+125,242,Emergency,6,Improved
+126,469,In-Patient Treatment,14,Improved
+127,396,In-Patient Treatment,15,Improved
+128,873,Emergency,3,Unchanged
+129,17,Emergency,6,Unchanged
+130,907,In-Patient Treatment,3,Improved
+131,174,Surgery,5,Improved
+132,530,In-Patient Treatment,10,Unchanged
+133,209,Emergency,6,Improved
+134,556,Emergency,1,Deteriorated
+135,143,Emergency,8,Improved
+136,862,Emergency,2,Improved
+137,858,In-Patient Treatment,10,Improved
+138,67,In-Patient Treatment,3,Deteriorated
+139,715,Emergency,13,Improved
+140,927,In-Patient Treatment,4,Improved
+141,405,Surgery,7,Improved
+142,731,In-Patient Treatment,12,Unchanged
+143,625,In-Patient Treatment,8,Unchanged
+144,727,In-Patient Treatment,14,Improved
+145,870,In-Patient Treatment,12,Improved
+146,89,Emergency,12,Improved
+147,205,Emergency,7,Improved
+148,356,Emergency,14,Improved
+149,551,Surgery,2,Improved
+150,491,Surgery,6,Improved
+151,965,Surgery,13,Improved
+152,786,In-Patient Treatment,7,Improved
+153,613,Emergency,10,Unchanged
+154,437,In-Patient Treatment,14,Improved
+155,136,In-Patient Treatment,2,Improved
+156,107,Emergency,6,Improved
+157,492,In-Patient Treatment,4,Improved
+158,585,In-Patient Treatment,3,Improved
+159,400,In-Patient Treatment,10,Unchanged
+160,443,In-Patient Treatment,8,Improved
+161,609,Surgery,11,Improved
+162,79,In-Patient Treatment,8,Improved
+163,384,In-Patient Treatment,7,Unchanged
+164,876,In-Patient Treatment,13,Improved
+165,440,In-Patient Treatment,14,Improved
+166,267,Surgery,10,Improved
+167,16,In-Patient Treatment,6,Improved
+168,283,Emergency,2,Deteriorated
+169,214,Emergency,5,Unchanged
+170,527,Surgery,5,Improved
+171,983,Emergency,6,Improved
+172,461,Surgery,5,Unchanged
+173,489,In-Patient Treatment,13,Improved
+174,199,In-Patient Treatment,15,Improved
+175,668,In-Patient Treatment,9,Unchanged
+176,614,Surgery,7,Unchanged
+177,720,In-Patient Treatment,6,Improved
+178,809,In-Patient Treatment,7,Improved
+179,962,In-Patient Treatment,8,Improved
+180,412,In-Patient Treatment,12,Unchanged
+181,676,In-Patient Treatment,11,Improved
+182,333,Surgery,9,Improved
+183,684,In-Patient Treatment,10,Improved
+184,1,Emergency,12,Improved
+185,471,Emergency,5,Improved
+186,910,In-Patient Treatment,6,Improved
+187,758,In-Patient Treatment,6,Improved
+188,165,In-Patient Treatment,9,Improved
+189,269,In-Patient Treatment,11,Unchanged
+190,494,Emergency,8,Improved
+191,262,In-Patient Treatment,7,Unchanged
+192,656,In-Patient Treatment,5,Unchanged
+193,179,Emergency,2,Improved
+194,41,Surgery,12,Improved
+195,195,Surgery,11,Unchanged
+196,337,Surgery,6,Improved
+197,598,Emergency,10,Improved
+198,605,In-Patient Treatment,11,Improved
+199,745,Emergency,13,Improved
+200,512,In-Patient Treatment,6,Unchanged
+201,317,Emergency,7,Unchanged
+202,394,Emergency,6,Unchanged
+203,268,In-Patient Treatment,3,Improved
+204,333,Emergency,13,Improved
+205,611,Surgery,2,Improved
+206,596,In-Patient Treatment,9,Improved
+207,40,Surgery,5,Improved
+208,132,In-Patient Treatment,6,Improved
+209,343,Emergency,7,Improved
+210,79,In-Patient Treatment,15,Improved
+211,891,Emergency,9,Improved
+212,446,Surgery,12,Improved
+213,885,Surgery,9,Improved
+214,522,Emergency,8,Improved
+215,234,In-Patient Treatment,5,Improved
+216,18,Surgery,8,Unchanged
+217,939,In-Patient Treatment,6,Unchanged
+218,7,Surgery,3,Deteriorated
+219,652,In-Patient Treatment,15,Improved
+220,831,In-Patient Treatment,8,Improved
+221,137,Emergency,13,Improved
+222,154,In-Patient Treatment,3,Unchanged
+223,673,In-Patient Treatment,6,Improved
+224,837,In-Patient Treatment,12,Unchanged
+225,899,In-Patient Treatment,13,Improved
+226,821,In-Patient Treatment,12,Unchanged
+227,736,In-Patient Treatment,6,Unchanged
+228,497,In-Patient Treatment,12,Improved
+229,12,In-Patient Treatment,8,Improved
+230,145,Emergency,14,Improved
+231,981,In-Patient Treatment,10,Improved
+232,234,Surgery,6,Improved
+233,865,Surgery,5,Improved
+234,957,In-Patient Treatment,10,Improved
+235,370,Emergency,6,Improved
+236,611,Surgery,10,Improved
+237,4,Surgery,9,Improved
+238,25,Emergency,5,Improved
+239,736,In-Patient Treatment,12,Improved
+240,237,Emergency,9,Unchanged
+241,699,Emergency,6,Improved
+242,639,Emergency,12,Unchanged
+243,276,In-Patient Treatment,5,Improved
+244,748,Surgery,6,Improved
+245,886,Surgery,6,Improved
+246,798,In-Patient Treatment,12,Improved
+247,742,In-Patient Treatment,10,Improved
+248,836,In-Patient Treatment,13,Improved
+249,421,Surgery,10,Improved
+250,964,Emergency,7,Improved
+251,309,Emergency,15,Improved
+252,420,In-Patient Treatment,6,Unchanged
+253,555,Emergency,3,Improved
+254,201,In-Patient Treatment,15,Improved
+255,835,In-Patient Treatment,5,Unchanged
+256,59,Emergency,3,Improved
+257,26,Surgery,7,Unchanged
+258,518,Surgery,7,Improved
+259,464,Surgery,12,Improved
+260,851,In-Patient Treatment,7,Unchanged
+261,116,In-Patient Treatment,3,Improved
+262,366,Emergency,7,Unchanged
+263,662,Surgery,10,Improved
+264,973,In-Patient Treatment,5,Improved
+265,314,In-Patient Treatment,12,Unchanged
+266,585,In-Patient Treatment,3,Improved
+267,334,Emergency,5,Unchanged
+268,957,In-Patient Treatment,4,Improved
+269,716,In-Patient Treatment,10,Improved
+270,818,In-Patient Treatment,5,Improved
+271,134,In-Patient Treatment,3,Unchanged
+272,557,Surgery,2,Improved
+273,951,In-Patient Treatment,8,Improved
+274,455,Emergency,9,Unchanged
+275,654,Emergency,4,Unchanged
+276,764,Surgery,10,Improved
+277,682,In-Patient Treatment,10,Improved
+278,441,Surgery,6,Improved
+279,502,Emergency,4,Improved
+280,120,Surgery,4,Improved
+281,100,Surgery,13,Improved
+282,462,In-Patient Treatment,4,Improved
+283,884,In-Patient Treatment,8,Unchanged
+284,525,In-Patient Treatment,6,Unchanged
+285,889,Emergency,9,Improved
+286,43,In-Patient Treatment,14,Improved
+287,226,In-Patient Treatment,12,Improved
+288,951,In-Patient Treatment,14,Improved
+289,442,In-Patient Treatment,7,Unchanged
+290,544,In-Patient Treatment,2,Improved
+291,51,In-Patient Treatment,10,Improved
+292,887,In-Patient Treatment,2,Improved
+293,354,In-Patient Treatment,7,Improved
+294,681,In-Patient Treatment,2,Improved
+295,84,In-Patient Treatment,4,Improved
+296,445,Surgery,11,Improved
+297,914,Emergency,6,Improved
+298,177,In-Patient Treatment,12,Unchanged
+299,744,In-Patient Treatment,9,Unchanged
+300,691,Surgery,15,Improved
+301,419,Surgery,11,Improved
+302,707,Surgery,9,Improved
+303,893,Emergency,13,Improved
+304,66,In-Patient Treatment,10,Improved
+305,691,In-Patient Treatment,7,Improved
+306,437,In-Patient Treatment,12,Improved
+307,15,Surgery,10,Improved
+308,399,Emergency,9,Improved
+309,797,Emergency,10,Improved
+310,162,In-Patient Treatment,12,Unchanged
+311,406,Surgery,5,Improved
+312,490,In-Patient Treatment,10,Improved
+313,434,In-Patient Treatment,8,Improved
+314,181,In-Patient Treatment,7,Unchanged
+315,954,Emergency,7,Unchanged
+316,371,In-Patient Treatment,3,Unchanged
+317,661,Surgery,3,Improved
+318,492,In-Patient Treatment,11,Improved
+319,160,Emergency,5,Unchanged
+320,406,Emergency,15,Improved
+321,38,In-Patient Treatment,15,Improved
+322,928,Surgery,10,Unchanged
+323,855,Emergency,7,Improved
+324,257,Emergency,13,Improved
+325,418,Surgery,11,Improved
+326,937,Emergency,12,Improved
+327,219,In-Patient Treatment,14,Improved
+328,956,Emergency,15,Improved
+329,163,In-Patient Treatment,7,Unchanged
+330,651,In-Patient Treatment,14,Improved
+331,794,In-Patient Treatment,3,Unchanged
+332,163,Emergency,13,Improved
+333,523,Emergency,12,Improved
+334,635,In-Patient Treatment,11,Unchanged
+335,67,Emergency,5,Unchanged
+336,425,Surgery,4,Improved
+337,339,In-Patient Treatment,4,Unchanged
+338,591,In-Patient Treatment,6,Unchanged
+339,332,Emergency,4,Unchanged
+340,906,In-Patient Treatment,14,Improved
+341,679,Emergency,11,Unchanged
+342,324,In-Patient Treatment,4,Deteriorated
+343,499,In-Patient Treatment,12,Unchanged
+344,711,Emergency,8,Improved
+345,258,Emergency,9,Improved
+346,931,Surgery,4,Improved
+347,274,Surgery,7,Improved
+348,238,Emergency,3,Deteriorated
+349,629,Emergency,11,Improved
+350,186,In-Patient Treatment,7,Improved
+351,172,Emergency,3,Unchanged
+352,221,In-Patient Treatment,7,Improved
+353,537,Surgery,14,Improved
+354,824,In-Patient Treatment,15,Improved
+355,962,Emergency,4,Improved
+356,978,In-Patient Treatment,12,Improved
+357,942,Emergency,4,Deteriorated
+358,85,Surgery,4,Improved
+359,554,In-Patient Treatment,4,Improved
+360,597,Surgery,11,Improved
+361,533,In-Patient Treatment,12,Improved
+362,922,Emergency,12,Improved
+363,475,Surgery,11,Improved
+364,899,In-Patient Treatment,12,Improved
+365,71,Surgery,10,Unchanged
+366,819,In-Patient Treatment,14,Improved
+367,372,In-Patient Treatment,6,Improved
+368,99,Surgery,6,Unchanged
+369,409,In-Patient Treatment,14,Improved
+370,116,Surgery,10,Improved
+371,122,Surgery,10,Improved
+372,642,In-Patient Treatment,2,Improved
+373,932,Emergency,3,Improved
+374,591,In-Patient Treatment,9,Improved
+375,870,In-Patient Treatment,6,Improved
+376,673,In-Patient Treatment,8,Improved
+377,902,In-Patient Treatment,2,Improved
+378,239,In-Patient Treatment,13,Improved
+379,517,In-Patient Treatment,12,Unchanged
+380,9,Surgery,7,Unchanged
+381,273,Surgery,5,Unchanged
+382,372,Emergency,11,Improved
+383,388,Emergency,13,Improved
+384,925,Surgery,13,Improved
+385,178,In-Patient Treatment,15,Improved
+386,220,Emergency,3,Improved
+387,64,Surgery,3,Improved
+388,743,In-Patient Treatment,10,Improved
+389,651,Emergency,14,Improved
+390,403,Surgery,4,Deteriorated
+391,588,Surgery,5,Improved
+392,570,Emergency,8,Improved
+393,166,In-Patient Treatment,11,Improved
+394,768,In-Patient Treatment,11,Improved
+395,721,In-Patient Treatment,14,Improved
+396,408,Emergency,3,Improved
+397,108,In-Patient Treatment,4,Improved
+398,755,Surgery,5,Unchanged
+399,179,In-Patient Treatment,8,Unchanged
+400,645,In-Patient Treatment,3,Deteriorated
+401,887,In-Patient Treatment,7,Unchanged
+402,197,Emergency,5,Improved
+403,245,In-Patient Treatment,4,Improved
+404,180,In-Patient Treatment,9,Improved
+405,324,In-Patient Treatment,15,Improved
+406,860,In-Patient Treatment,11,Improved
+407,615,In-Patient Treatment,5,Unchanged
+408,588,Surgery,7,Improved
+409,756,Emergency,14,Improved
+410,8,In-Patient Treatment,8,Improved
+411,503,Surgery,9,Unchanged
+412,261,Surgery,3,Improved
+413,39,Emergency,5,Unchanged
+414,758,Emergency,12,Unchanged
+415,953,Surgery,12,Unchanged
+416,235,Surgery,6,Unchanged
+417,206,Emergency,9,Unchanged
+418,204,In-Patient Treatment,3,Improved
+419,281,Emergency,4,Improved
+420,289,Emergency,8,Improved
+421,249,In-Patient Treatment,8,Improved
+422,33,In-Patient Treatment,4,Deteriorated
+423,386,Surgery,11,Improved
+424,757,Emergency,5,Unchanged
+425,541,In-Patient Treatment,13,Improved
+426,919,Emergency,2,Improved
+427,577,In-Patient Treatment,5,Unchanged
+428,176,In-Patient Treatment,6,Improved
+429,628,Emergency,8,Improved
+430,642,In-Patient Treatment,5,Improved
+431,173,In-Patient Treatment,14,Improved
+432,291,Surgery,14,Improved
+433,465,In-Patient Treatment,12,Improved
+434,968,In-Patient Treatment,12,Improved
+435,268,Surgery,3,Unchanged
+436,971,Emergency,8,Unchanged
+437,45,Emergency,3,Improved
+438,80,Surgery,13,Improved
+439,454,In-Patient Treatment,5,Unchanged
+440,766,Emergency,5,Improved
+441,21,Emergency,7,Improved
+442,937,Surgery,7,Improved
+443,632,Emergency,9,Unchanged
+444,431,Emergency,6,Improved
+445,549,In-Patient Treatment,8,Improved
+446,401,In-Patient Treatment,3,Improved
+447,620,Emergency,2,Improved
+448,399,Emergency,13,Improved
+449,448,Emergency,11,Improved
+450,211,In-Patient Treatment,10,Unchanged
+451,898,Emergency,1,Deteriorated
+452,21,Emergency,13,Improved
+453,187,Surgery,3,Improved
+454,975,Emergency,12,Improved
+455,999,Surgery,12,Unchanged
+456,948,Surgery,8,Unchanged
+457,676,Emergency,2,Improved
+458,723,Emergency,11,Improved
+459,952,Surgery,5,Unchanged
+460,936,Emergency,8,Improved
+461,638,Surgery,13,Improved
+462,955,Emergency,9,Improved
+463,282,Emergency,5,Improved
+464,733,In-Patient Treatment,13,Improved
+465,624,In-Patient Treatment,5,Unchanged
+466,42,Surgery,2,Improved
+467,987,Emergency,13,Improved
+468,666,Emergency,10,Improved
+469,261,Surgery,11,Improved
+470,303,Emergency,7,Improved
+471,596,Emergency,7,Improved
+472,778,Emergency,11,Unchanged
+473,502,Emergency,2,Improved
+474,91,In-Patient Treatment,7,Improved
+475,903,In-Patient Treatment,13,Improved
+476,846,In-Patient Treatment,6,Improved
+477,525,In-Patient Treatment,8,Unchanged
+478,296,Emergency,15,Improved
+479,741,In-Patient Treatment,10,Unchanged
+480,624,In-Patient Treatment,6,Improved
+481,507,In-Patient Treatment,4,Unchanged
+482,702,In-Patient Treatment,13,Improved
+483,621,Emergency,13,Improved
+484,540,Surgery,3,Improved
+485,254,Emergency,11,Improved
+486,374,In-Patient Treatment,7,Unchanged
+487,640,In-Patient Treatment,5,Unchanged
+488,130,In-Patient Treatment,11,Improved
+489,140,Emergency,4,Improved
+490,648,In-Patient Treatment,9,Improved
+491,721,Emergency,9,Unchanged
+492,100,In-Patient Treatment,2,Improved
+493,817,Surgery,13,Improved
+494,264,In-Patient Treatment,14,Improved
+495,238,In-Patient Treatment,7,Unchanged
+496,741,Surgery,10,Improved
+497,161,In-Patient Treatment,6,Unchanged
+498,779,In-Patient Treatment,3,Unchanged
+499,735,Emergency,9,Improved
+500,312,Emergency,6,Improved
+501,705,Emergency,4,Unchanged
+502,468,In-Patient Treatment,13,Improved
+503,48,In-Patient Treatment,3,Unchanged
+504,835,In-Patient Treatment,15,Improved
+505,153,In-Patient Treatment,13,Improved
+506,407,Surgery,5,Unchanged
+507,205,Emergency,10,Improved
+508,712,In-Patient Treatment,2,Improved
+509,398,Emergency,6,Unchanged
+510,171,In-Patient Treatment,9,Improved
+511,888,Surgery,9,Improved
+512,710,In-Patient Treatment,11,Improved
+513,663,In-Patient Treatment,10,Unchanged
+514,612,Emergency,12,Unchanged
+515,517,Emergency,9,Improved
+516,387,Emergency,6,Unchanged
+517,900,In-Patient Treatment,10,Unchanged
+518,440,In-Patient Treatment,10,Improved
+519,8,In-Patient Treatment,8,Improved
+520,72,In-Patient Treatment,15,Improved
+521,582,Surgery,13,Improved
+522,573,In-Patient Treatment,4,Unchanged
+523,65,In-Patient Treatment,11,Unchanged
+524,849,Emergency,12,Improved
+525,869,In-Patient Treatment,9,Improved
+526,836,Emergency,14,Improved
+527,578,Surgery,6,Improved
+528,659,In-Patient Treatment,13,Improved
+529,771,Surgery,4,Improved
+530,647,Emergency,8,Improved
+531,827,In-Patient Treatment,15,Improved
+532,392,In-Patient Treatment,4,Unchanged
+533,793,In-Patient Treatment,14,Improved
+534,357,Emergency,4,Improved
+535,239,Emergency,13,Improved
+536,685,Surgery,10,Improved
+537,498,Surgery,5,Improved
+538,875,Emergency,5,Improved
+539,710,Emergency,5,Unchanged
+540,407,In-Patient Treatment,6,Improved
+541,996,Emergency,5,Unchanged
+542,686,In-Patient Treatment,1,Deteriorated
+543,499,Emergency,5,Unchanged
+544,342,In-Patient Treatment,3,Improved
+545,5,In-Patient Treatment,7,Unchanged
+546,990,In-Patient Treatment,7,Improved
+547,221,In-Patient Treatment,2,Improved
+548,666,Emergency,8,Unchanged
+549,882,In-Patient Treatment,11,Improved
+550,313,Emergency,4,Improved
+551,580,In-Patient Treatment,5,Improved
+552,804,Emergency,7,Improved
+553,845,In-Patient Treatment,9,Improved
+554,745,In-Patient Treatment,10,Improved
+555,214,Emergency,2,Deteriorated
+556,17,In-Patient Treatment,9,Unchanged
+557,883,In-Patient Treatment,7,Unchanged
+558,23,In-Patient Treatment,15,Improved
+559,321,In-Patient Treatment,13,Improved
+560,341,Emergency,11,Unchanged
+561,562,In-Patient Treatment,6,Unchanged
+562,365,Emergency,11,Improved
+563,321,Surgery,12,Improved
+564,143,In-Patient Treatment,7,Improved
+565,528,Surgery,6,Improved
+566,678,Emergency,2,Improved
+567,83,Emergency,7,Unchanged
+568,32,Emergency,14,Improved
+569,848,Emergency,6,Improved
+570,231,Emergency,15,Improved
+571,218,In-Patient Treatment,10,Improved
+572,302,In-Patient Treatment,2,Improved
+573,520,In-Patient Treatment,6,Improved
+574,539,In-Patient Treatment,8,Improved
+575,495,In-Patient Treatment,8,Unchanged
+576,704,In-Patient Treatment,7,Improved
+577,62,In-Patient Treatment,13,Improved
+578,773,Emergency,8,Improved
+579,839,Surgery,8,Unchanged
+580,200,Surgery,6,Improved
+581,300,In-Patient Treatment,12,Unchanged
+582,818,Emergency,6,Improved
+583,627,Surgery,11,Unchanged
+584,260,In-Patient Treatment,10,Unchanged
+585,410,In-Patient Treatment,15,Improved
+586,610,Surgery,13,Improved
+587,838,Emergency,11,Improved
+588,791,In-Patient Treatment,6,Unchanged
+589,780,In-Patient Treatment,5,Improved
+590,278,In-Patient Treatment,11,Improved
+591,1000,Surgery,7,Unchanged
+592,6,Emergency,5,Unchanged
+593,374,In-Patient Treatment,9,Improved
+594,132,In-Patient Treatment,8,Improved
+595,631,Emergency,6,Improved
+596,296,Emergency,11,Improved
+597,460,In-Patient Treatment,4,Improved
+598,237,Surgery,6,Improved
+599,747,In-Patient Treatment,4,Improved
+600,328,In-Patient Treatment,12,Unchanged
+601,149,Emergency,6,Improved
+602,152,In-Patient Treatment,2,Improved
+603,529,Surgery,7,Improved
+604,216,Emergency,11,Improved
+605,840,Emergency,5,Improved
+606,483,In-Patient Treatment,5,Improved
+607,920,In-Patient Treatment,10,Unchanged
+608,362,In-Patient Treatment,3,Improved
+609,242,Emergency,5,Improved
+610,326,Emergency,4,Unchanged
+611,121,Surgery,2,Improved
+612,751,Emergency,12,Unchanged
+613,716,Surgery,14,Improved
+614,853,Emergency,5,Unchanged
+615,939,In-Patient Treatment,13,Improved
+616,288,In-Patient Treatment,10,Unchanged
+617,380,Emergency,8,Unchanged
+618,504,In-Patient Treatment,13,Improved
+619,107,In-Patient Treatment,8,Improved
+620,762,Emergency,4,Unchanged
+621,813,Surgery,7,Improved
+622,262,In-Patient Treatment,15,Improved
+623,935,Emergency,9,Improved
+624,50,Surgery,10,Unchanged
+625,565,In-Patient Treatment,5,Improved
+626,750,In-Patient Treatment,7,Improved
+627,365,In-Patient Treatment,15,Improved
+628,167,Emergency,7,Unchanged
+629,318,Emergency,11,Unchanged
+630,643,Surgery,4,Deteriorated
+631,994,Emergency,3,Improved
+632,730,In-Patient Treatment,9,Unchanged
+633,345,In-Patient Treatment,8,Improved
+634,728,Emergency,12,Improved
+635,959,In-Patient Treatment,15,Improved
+636,996,In-Patient Treatment,15,Improved
+637,982,In-Patient Treatment,3,Unchanged
+638,987,In-Patient Treatment,2,Improved
+639,124,In-Patient Treatment,13,Improved
+640,763,In-Patient Treatment,6,Unchanged
+641,141,In-Patient Treatment,7,Unchanged
+642,474,In-Patient Treatment,5,Improved
+643,860,Emergency,8,Improved
+644,24,Surgery,5,Unchanged
+645,864,In-Patient Treatment,8,Improved
+646,816,Emergency,14,Improved
+647,353,In-Patient Treatment,9,Improved
+648,485,Emergency,7,Improved
+649,670,Surgery,8,Unchanged
+650,773,Emergency,9,Improved
+651,728,Surgery,9,Improved
+652,729,In-Patient Treatment,8,Improved
+653,113,In-Patient Treatment,7,Improved
+654,724,Surgery,7,Improved
+655,300,In-Patient Treatment,11,Improved
+656,822,In-Patient Treatment,12,Improved
+657,158,Emergency,14,Improved
+658,571,Surgery,14,Improved
+659,662,Surgery,7,Improved
+660,75,In-Patient Treatment,9,Improved
+661,867,Surgery,2,Improved
+662,689,In-Patient Treatment,7,Unchanged
+663,146,In-Patient Treatment,4,Improved
+664,227,Emergency,13,Improved
+665,354,In-Patient Treatment,9,Improved
+666,514,In-Patient Treatment,3,Deteriorated
+667,986,Emergency,7,Improved
+668,909,In-Patient Treatment,4,Unchanged
+669,726,In-Patient Treatment,14,Improved
+670,915,In-Patient Treatment,9,Unchanged
+671,653,In-Patient Treatment,9,Unchanged
+672,740,In-Patient Treatment,14,Improved
+673,478,Emergency,6,Improved
+674,188,Emergency,9,Improved
+675,312,In-Patient Treatment,15,Improved
+676,698,Surgery,6,Improved
+677,610,In-Patient Treatment,2,Improved
+678,972,In-Patient Treatment,10,Improved
+679,413,Surgery,5,Improved
+680,531,In-Patient Treatment,14,Improved
+681,564,Surgery,3,Improved
+682,903,In-Patient Treatment,5,Improved
+683,921,Emergency,2,Deteriorated
+684,765,In-Patient Treatment,14,Improved
+685,872,In-Patient Treatment,11,Unchanged
+686,814,In-Patient Treatment,3,Improved
+687,2,Emergency,5,Improved
+688,811,Emergency,3,Improved
+689,486,Surgery,6,Improved
+690,805,In-Patient Treatment,5,Unchanged
+691,175,In-Patient Treatment,11,Improved
+692,584,In-Patient Treatment,3,Improved
+693,432,Emergency,2,Deteriorated
+694,87,Surgery,10,Improved
+695,191,In-Patient Treatment,4,Deteriorated
+696,526,Emergency,1,Deteriorated
+697,930,In-Patient Treatment,11,Improved
+698,286,Emergency,6,Improved
+699,212,Surgery,2,Improved
+700,717,In-Patient Treatment,7,Improved
+701,853,In-Patient Treatment,14,Improved
+702,889,Surgery,3,Deteriorated
+703,641,Surgery,3,Unchanged
+704,157,Emergency,10,Improved
+705,63,Emergency,9,Improved
+706,52,In-Patient Treatment,13,Improved
+707,965,Emergency,15,Improved
+708,885,Surgery,10,Unchanged
+709,725,Emergency,8,Improved
+710,747,In-Patient Treatment,6,Improved
+711,244,In-Patient Treatment,4,Improved
+712,902,In-Patient Treatment,11,Unchanged
+713,80,In-Patient Treatment,15,Improved
+714,774,In-Patient Treatment,9,Unchanged
+715,68,In-Patient Treatment,12,Improved
+716,617,In-Patient Treatment,12,Unchanged
+717,755,In-Patient Treatment,11,Improved
+718,859,Emergency,9,Improved
+719,929,In-Patient Treatment,8,Unchanged
+720,393,In-Patient Treatment,13,Improved
+721,378,In-Patient Treatment,15,Improved
+722,95,In-Patient Treatment,12,Improved
+723,589,Emergency,7,Unchanged
+724,563,In-Patient Treatment,10,Unchanged
+725,232,Emergency,4,Improved
+726,199,Surgery,13,Improved
+727,980,Emergency,9,Unchanged
+728,788,Emergency,3,Improved
+729,82,Surgery,5,Unchanged
+730,484,Emergency,14,Improved
+731,33,In-Patient Treatment,4,Deteriorated
+732,600,In-Patient Treatment,4,Unchanged
+733,796,Surgery,7,Unchanged
+734,164,In-Patient Treatment,8,Improved
+735,73,In-Patient Treatment,12,Improved
+736,191,Emergency,11,Improved
+737,733,Surgery,12,Improved
+738,726,In-Patient Treatment,12,Improved
+739,216,Emergency,12,Improved
+740,61,In-Patient Treatment,12,Unchanged
+741,861,Emergency,14,Improved
+742,306,In-Patient Treatment,15,Improved
+743,942,In-Patient Treatment,2,Improved
+744,539,Surgery,14,Improved
+745,210,In-Patient Treatment,11,Improved
+746,246,Emergency,10,Improved
+747,789,In-Patient Treatment,3,Unchanged
+748,657,In-Patient Treatment,2,Improved
+749,200,Emergency,15,Improved
+750,538,In-Patient Treatment,13,Improved
+751,524,In-Patient Treatment,12,Unchanged
+752,567,In-Patient Treatment,9,Improved
+753,665,Emergency,8,Unchanged
+754,391,Surgery,7,Improved
+755,125,Surgery,11,Unchanged
+756,543,In-Patient Treatment,5,Improved
+757,73,In-Patient Treatment,9,Improved
+758,377,In-Patient Treatment,5,Improved
+759,224,Surgery,15,Improved
+760,918,In-Patient Treatment,3,Improved
+761,355,Surgery,10,Unchanged
+762,511,In-Patient Treatment,13,Improved
+763,630,Surgery,9,Unchanged
+764,445,Surgery,6,Unchanged
+765,13,Surgery,10,Improved
+766,109,In-Patient Treatment,11,Unchanged
+767,900,In-Patient Treatment,9,Improved
+768,489,In-Patient Treatment,15,Improved
+769,661,In-Patient Treatment,1,Deteriorated
+770,498,In-Patient Treatment,8,Improved
+771,30,Emergency,6,Improved
+772,338,In-Patient Treatment,8,Improved
+773,784,Emergency,13,Improved
+774,208,Emergency,1,Deteriorated
+775,377,In-Patient Treatment,3,Improved
+776,560,Surgery,14,Improved
+777,879,In-Patient Treatment,15,Improved
+778,328,In-Patient Treatment,12,Improved
+779,562,In-Patient Treatment,5,Improved
+780,801,Surgery,5,Improved
+781,701,In-Patient Treatment,3,Improved
+782,263,In-Patient Treatment,4,Improved
+783,607,Emergency,10,Unchanged
+784,909,In-Patient Treatment,13,Improved
+785,387,Emergency,11,Unchanged
+786,760,Surgery,8,Unchanged
+787,295,Surgery,12,Unchanged
+788,248,In-Patient Treatment,4,Unchanged
+789,587,In-Patient Treatment,3,Improved
+790,918,In-Patient Treatment,8,Improved
+791,817,In-Patient Treatment,9,Improved
+792,784,In-Patient Treatment,9,Improved
+793,774,In-Patient Treatment,8,Unchanged
+794,393,Surgery,11,Improved
+795,455,Surgery,10,Unchanged
+796,351,In-Patient Treatment,15,Improved
+797,4,In-Patient Treatment,3,Unchanged
+798,961,In-Patient Treatment,10,Improved
+799,306,In-Patient Treatment,14,Improved
+800,700,Emergency,13,Improved
+801,988,Emergency,3,Unchanged
+802,105,Surgery,14,Improved
+803,967,Emergency,5,Unchanged
+804,687,Emergency,11,Unchanged
+805,213,Emergency,7,Unchanged
+806,646,In-Patient Treatment,10,Improved
+807,969,Emergency,11,Unchanged
+808,96,In-Patient Treatment,8,Unchanged
+809,566,In-Patient Treatment,12,Improved
+810,193,In-Patient Treatment,2,Improved
+811,56,In-Patient Treatment,11,Improved
+812,307,Surgery,8,Improved
+813,592,In-Patient Treatment,15,Improved
+814,139,In-Patient Treatment,2,Deteriorated
+815,618,In-Patient Treatment,10,Improved
+816,637,Emergency,8,Improved
+817,598,In-Patient Treatment,2,Deteriorated
+818,272,Surgery,13,Improved
+819,626,Surgery,6,Unchanged
+820,803,Emergency,8,Improved
+821,891,Emergency,3,Improved
+822,844,In-Patient Treatment,7,Improved
+823,349,In-Patient Treatment,7,Improved
+824,731,Emergency,3,Improved
+825,865,In-Patient Treatment,6,Unchanged
+826,904,In-Patient Treatment,9,Improved
+827,992,Emergency,10,Unchanged
+828,979,In-Patient Treatment,14,Improved
+829,219,Surgery,9,Improved
+830,946,In-Patient Treatment,9,Improved
+831,540,Emergency,2,Improved
+832,301,Emergency,4,Unchanged
+833,54,Emergency,4,Deteriorated
+834,390,In-Patient Treatment,6,Unchanged
+835,15,Emergency,13,Improved
+836,410,Surgery,10,Improved
+837,886,In-Patient Treatment,4,Improved
+838,523,In-Patient Treatment,8,Unchanged
+839,790,Emergency,8,Improved
+840,708,Emergency,9,Improved
+841,376,In-Patient Treatment,14,Improved
+842,643,Surgery,8,Improved
+843,293,In-Patient Treatment,4,Improved
+844,988,In-Patient Treatment,7,Improved
+845,500,Emergency,7,Unchanged
+846,222,Emergency,12,Unchanged
+847,919,Surgery,5,Improved
+848,875,Surgery,2,Improved
+849,156,In-Patient Treatment,15,Improved
+850,828,In-Patient Treatment,1,Deteriorated
+851,119,In-Patient Treatment,3,Deteriorated
+852,461,Emergency,10,Unchanged
+853,828,Surgery,4,Unchanged
+854,656,In-Patient Treatment,8,Improved
+855,895,In-Patient Treatment,8,Unchanged
+856,252,In-Patient Treatment,6,Improved
+857,507,Surgery,14,Improved
+858,90,In-Patient Treatment,6,Unchanged
+859,563,In-Patient Treatment,3,Improved
+860,956,Emergency,11,Improved
+861,848,Surgery,7,Improved
+862,276,Emergency,6,Improved
+863,508,Emergency,4,Unchanged
+864,332,In-Patient Treatment,11,Improved
+865,534,Emergency,8,Improved
+866,521,Emergency,7,Improved
+867,713,Surgery,13,Improved
+868,660,In-Patient Treatment,12,Improved
+869,46,In-Patient Treatment,10,Improved
+870,696,In-Patient Treatment,12,Improved
+871,846,In-Patient Treatment,12,Unchanged
+872,602,Surgery,1,Deteriorated
+873,56,In-Patient Treatment,10,Improved
+874,313,In-Patient Treatment,10,Improved
+875,35,In-Patient Treatment,14,Improved
+876,395,In-Patient Treatment,3,Unchanged
+877,960,In-Patient Treatment,6,Improved
+878,151,In-Patient Treatment,11,Unchanged
+879,439,In-Patient Treatment,9,Unchanged
+880,509,Emergency,8,Unchanged
+881,526,Emergency,8,Unchanged
+882,383,In-Patient Treatment,12,Improved
+883,147,Surgery,8,Improved
+884,538,Emergency,1,Deteriorated
+885,223,Emergency,5,Improved
+886,235,In-Patient Treatment,14,Improved
+887,493,In-Patient Treatment,2,Improved
+888,622,In-Patient Treatment,7,Improved
+889,217,In-Patient Treatment,6,Unchanged
+890,735,In-Patient Treatment,2,Improved
+891,503,Surgery,10,Improved
+892,189,In-Patient Treatment,4,Deteriorated
+893,335,In-Patient Treatment,6,Unchanged
+894,289,Emergency,13,Improved
+895,301,In-Patient Treatment,7,Improved
+896,123,Emergency,14,Improved
+897,65,Emergency,8,Improved
+898,184,Emergency,9,Improved
+899,92,Surgery,13,Improved
+900,1000,In-Patient Treatment,11,Unchanged
+901,823,Emergency,10,Improved
+902,66,Surgery,9,Improved
+903,524,Emergency,11,Improved
+904,520,In-Patient Treatment,12,Improved
+905,426,Surgery,5,Unchanged
+906,634,In-Patient Treatment,13,Improved
+907,672,Surgery,3,Improved
+908,81,In-Patient Treatment,6,Improved
+909,344,Emergency,1,Deteriorated
+910,599,Surgery,4,Improved
+911,278,In-Patient Treatment,2,Improved
+912,347,In-Patient Treatment,14,Improved
+913,695,In-Patient Treatment,5,Unchanged
+914,862,Surgery,14,Improved
+915,82,Surgery,5,Improved
+916,136,Emergency,8,Improved
+917,57,Emergency,13,Improved
+918,232,Surgery,7,Unchanged
+919,841,In-Patient Treatment,7,Unchanged
+920,701,In-Patient Treatment,14,Improved
+921,3,Emergency,2,Improved
+922,76,In-Patient Treatment,9,Improved
+923,418,In-Patient Treatment,14,Improved
+924,945,In-Patient Treatment,5,Improved
+925,5,In-Patient Treatment,11,Improved
+926,595,Surgery,6,Improved
+927,458,In-Patient Treatment,3,Improved
+928,141,Emergency,3,Deteriorated
+929,917,In-Patient Treatment,3,Unchanged
+930,890,In-Patient Treatment,11,Unchanged
+931,255,In-Patient Treatment,3,Improved
+932,667,Emergency,2,Deteriorated
+933,901,Emergency,2,Improved
+934,290,Surgery,2,Improved
+935,896,Emergency,11,Unchanged
+936,256,Emergency,5,Improved
+937,659,Emergency,10,Improved
+938,375,Surgery,12,Improved
+939,635,Emergency,6,Improved
+940,633,In-Patient Treatment,8,Improved
+941,477,Emergency,2,Improved
+942,545,Emergency,8,Unchanged
+943,294,Emergency,9,Improved
+944,652,In-Patient Treatment,15,Improved
+945,776,Surgery,2,Improved
+946,920,Surgery,10,Improved
+947,795,In-Patient Treatment,3,Deteriorated
+948,871,Surgery,2,Improved
+949,246,In-Patient Treatment,2,Improved
+950,854,In-Patient Treatment,14,Improved
+951,450,In-Patient Treatment,8,Unchanged
+952,917,In-Patient Treatment,8,Unchanged
+953,649,Surgery,2,Improved
+954,236,In-Patient Treatment,15,Improved
+955,230,In-Patient Treatment,15,Improved
+956,567,In-Patient Treatment,4,Improved
+957,305,In-Patient Treatment,8,Improved
+958,404,In-Patient Treatment,12,Unchanged
+959,408,Emergency,4,Improved
+960,105,In-Patient Treatment,5,Unchanged
+961,541,Surgery,4,Improved
+962,449,Surgery,13,Improved
+963,876,In-Patient Treatment,8,Improved
+964,348,Surgery,5,Improved
+965,436,In-Patient Treatment,5,Improved
+966,375,In-Patient Treatment,4,Improved
+967,178,In-Patient Treatment,11,Improved
+968,126,In-Patient Treatment,12,Improved
+969,93,Emergency,10,Improved
+970,924,Emergency,3,Improved
+971,604,In-Patient Treatment,5,Improved
+972,350,Emergency,9,Improved
+973,550,In-Patient Treatment,7,Improved
+974,114,Emergency,15,Improved
+975,53,In-Patient Treatment,9,Unchanged
+976,912,In-Patient Treatment,9,Unchanged
+977,602,In-Patient Treatment,3,Improved
+978,522,In-Patient Treatment,5,Improved
+979,135,Emergency,11,Improved
+980,29,Surgery,12,Unchanged
+981,338,In-Patient Treatment,7,Improved
+982,677,Emergency,4,Improved
+983,89,Emergency,11,Unchanged
+984,974,Surgery,14,Improved
+985,820,In-Patient Treatment,5,Improved
+986,290,In-Patient Treatment,11,Improved
+987,122,Surgery,14,Improved
+988,505,Emergency,4,Unchanged
+989,147,In-Patient Treatment,8,Unchanged
+990,60,In-Patient Treatment,2,Improved
+991,275,In-Patient Treatment,7,Improved
+992,761,Emergency,14,Improved
+993,14,Emergency,13,Improved
+994,578,In-Patient Treatment,11,Improved
+995,798,Emergency,2,Improved
+996,763,Emergency,15,Improved
+997,515,Emergency,9,Improved
+998,769,Emergency,6,Improved
+999,826,Surgery,7,Improved
+1000,426,In-Patient Treatment,3,Improved
+1001,692,Surgery,3,Improved
+1002,864,In-Patient Treatment,13,Improved
+1003,813,In-Patient Treatment,10,Improved
+1004,964,In-Patient Treatment,4,Improved
+1005,75,In-Patient Treatment,7,Improved
+1006,892,In-Patient Treatment,11,Improved
+1007,781,In-Patient Treatment,6,Improved
+1008,622,Surgery,15,Improved
+1009,706,In-Patient Treatment,6,Unchanged
+1010,565,Emergency,11,Improved
+1011,873,In-Patient Treatment,3,Improved
+1012,117,Surgery,9,Improved
+1013,551,Emergency,11,Improved
+1014,858,In-Patient Treatment,8,Improved
+1015,669,Emergency,12,Improved
+1016,583,Emergency,3,Improved
+1017,247,Emergency,7,Improved
+1018,467,Emergency,15,Improved
+1019,307,Emergency,9,Improved
+1020,790,Emergency,9,Unchanged
+1021,171,In-Patient Treatment,2,Improved
+1022,878,In-Patient Treatment,7,Unchanged
+1023,592,Surgery,4,Unchanged
+1024,204,In-Patient Treatment,7,Improved
+1025,212,In-Patient Treatment,8,Improved
+1026,367,In-Patient Treatment,15,Improved
+1027,253,In-Patient Treatment,9,Unchanged
+1028,771,Surgery,5,Unchanged
+1029,137,In-Patient Treatment,8,Improved
+1030,432,In-Patient Treatment,7,Unchanged
+1031,308,Emergency,9,Improved
+1032,759,Surgery,13,Improved
+1033,442,In-Patient Treatment,10,Unchanged
+1034,54,In-Patient Treatment,9,Unchanged
+1035,709,Surgery,7,Improved
+1036,593,Emergency,4,Unchanged
+1037,477,In-Patient Treatment,2,Deteriorated
+1038,627,In-Patient Treatment,11,Unchanged
+1039,805,In-Patient Treatment,4,Unchanged
+1040,842,In-Patient Treatment,3,Unchanged
+1041,370,In-Patient Treatment,12,Improved
+1042,513,Surgery,7,Unchanged
+1043,874,In-Patient Treatment,12,Improved
+1044,546,Emergency,8,Unchanged
+1045,209,In-Patient Treatment,4,Improved
+1046,620,Emergency,9,Improved
+1047,703,Emergency,8,Improved
+1048,724,In-Patient Treatment,3,Improved
+1049,283,Emergency,13,Improved
+1050,240,In-Patient Treatment,3,Deteriorated
+1051,849,Surgery,3,Deteriorated
+1052,72,Surgery,2,Improved
+1053,830,In-Patient Treatment,1,Deteriorated
+1054,574,In-Patient Treatment,9,Unchanged
+1055,560,In-Patient Treatment,7,Improved
+1056,331,Emergency,14,Improved
+1057,303,In-Patient Treatment,4,Unchanged
+1058,535,In-Patient Treatment,4,Improved
+1059,863,In-Patient Treatment,3,Unchanged
+1060,249,In-Patient Treatment,12,Unchanged
+1061,552,Emergency,7,Unchanged
+1062,626,In-Patient Treatment,10,Improved
+1063,436,Emergency,14,Improved
+1064,457,In-Patient Treatment,7,Improved
+1065,361,In-Patient Treatment,6,Improved
+1066,597,Emergency,13,Improved
+1067,513,Surgery,4,Improved
+1068,833,Emergency,6,Improved
+1069,697,In-Patient Treatment,10,Unchanged
+1070,704,In-Patient Treatment,13,Improved
+1071,943,Surgery,3,Improved
+1072,158,In-Patient Treatment,6,Improved
+1073,164,In-Patient Treatment,7,Improved
+1074,827,Surgery,11,Improved
+1075,456,Surgery,10,Unchanged
+1076,944,Surgery,9,Improved
+1077,803,Surgery,7,Unchanged
+1078,169,Surgery,10,Improved
+1079,359,In-Patient Treatment,6,Unchanged
+1080,250,In-Patient Treatment,11,Unchanged
+1081,833,Emergency,3,Deteriorated
+1082,718,Emergency,9,Unchanged
+1083,888,In-Patient Treatment,8,Unchanged
+1084,263,In-Patient Treatment,6,Unchanged
+1085,694,In-Patient Treatment,3,Improved
+1086,586,Emergency,9,Improved
+1087,381,In-Patient Treatment,7,Improved
+1088,363,In-Patient Treatment,13,Improved
+1089,383,Emergency,4,Improved
+1090,144,Emergency,8,Improved
+1091,154,In-Patient Treatment,12,Unchanged
+1092,175,Emergency,3,Deteriorated
+1093,414,Emergency,7,Improved
+1094,350,In-Patient Treatment,3,Improved
+1095,884,In-Patient Treatment,4,Deteriorated
+1096,599,In-Patient Treatment,2,Improved
+1097,3,In-Patient Treatment,3,Unchanged
+1098,945,Surgery,7,Improved
+1099,36,In-Patient Treatment,6,Improved
+1100,800,Emergency,10,Improved
+1101,356,In-Patient Treatment,9,Unchanged
+1102,211,In-Patient Treatment,3,Improved
+1103,511,Emergency,14,Improved
+1104,687,In-Patient Treatment,13,Improved
+1105,637,In-Patient Treatment,8,Improved
+1106,360,In-Patient Treatment,3,Deteriorated
+1107,369,In-Patient Treatment,5,Unchanged
+1108,788,Emergency,2,Improved
+1109,27,In-Patient Treatment,12,Improved
+1110,723,Surgery,9,Improved
+1111,60,Emergency,5,Unchanged
+1112,985,In-Patient Treatment,10,Unchanged
+1113,581,In-Patient Treatment,8,Improved
+1114,548,In-Patient Treatment,4,Unchanged
+1115,155,Emergency,14,Improved
+1116,135,In-Patient Treatment,2,Deteriorated
+1117,94,Surgery,3,Unchanged
+1118,509,In-Patient Treatment,9,Unchanged
+1119,490,Surgery,3,Unchanged
+1120,572,In-Patient Treatment,7,Improved
+1121,439,Surgery,12,Unchanged
+1122,244,In-Patient Treatment,12,Improved
+1123,617,In-Patient Treatment,11,Improved
+1124,112,In-Patient Treatment,9,Improved
+1125,173,In-Patient Treatment,9,Unchanged
+1126,94,Surgery,5,Improved
+1127,456,In-Patient Treatment,2,Improved
+1128,811,In-Patient Treatment,2,Improved
+1129,24,Emergency,5,Improved
+1130,114,In-Patient Treatment,6,Improved
+1131,381,Emergency,9,Unchanged
+1132,222,Emergency,6,Unchanged
+1133,986,In-Patient Treatment,11,Improved
+1134,224,Surgery,3,Unchanged
+1135,101,In-Patient Treatment,12,Unchanged
+1136,423,In-Patient Treatment,8,Improved
+1137,968,Emergency,4,Unchanged
+1138,491,Emergency,4,Deteriorated
+1139,623,In-Patient Treatment,14,Improved
+1140,743,Emergency,12,Improved
+1141,197,In-Patient Treatment,4,Unchanged
+1142,528,In-Patient Treatment,9,Improved
+1143,425,Surgery,13,Improved
+1144,340,In-Patient Treatment,11,Improved
+1145,976,In-Patient Treatment,11,Improved
+1146,579,Surgery,12,Unchanged
+1147,468,Surgery,6,Improved
+1148,486,In-Patient Treatment,11,Improved
+1149,265,Emergency,3,Improved
+1150,678,Emergency,6,Improved
+1151,557,Surgery,9,Improved
+1152,586,Surgery,7,Improved
+1153,389,In-Patient Treatment,5,Unchanged
+1154,113,In-Patient Treatment,9,Improved
+1155,92,In-Patient Treatment,15,Improved
+1156,91,Emergency,10,Improved
+1157,53,Emergency,6,Improved
+1158,609,Emergency,14,Improved
+1159,720,Surgery,3,Improved
+1160,368,In-Patient Treatment,4,Unchanged
+1161,938,In-Patient Treatment,8,Improved
+1162,634,In-Patient Treatment,3,Unchanged
+1163,119,In-Patient Treatment,11,Improved
+1164,576,In-Patient Treatment,4,Deteriorated
+1165,243,In-Patient Treatment,3,Improved
+1166,594,Emergency,12,Unchanged
+1167,227,Surgery,5,Improved
+1168,739,Emergency,2,Improved
+1169,6,Emergency,5,Improved
+1170,16,In-Patient Treatment,12,Unchanged
+1171,395,Emergency,6,Improved
+1172,658,Emergency,10,Improved
+1173,802,Emergency,3,Unchanged
+1174,555,In-Patient Treatment,13,Improved
+1175,51,In-Patient Treatment,7,Unchanged
+1176,18,In-Patient Treatment,3,Improved
+1177,519,Emergency,11,Unchanged
+1178,319,Surgery,7,Improved
+1179,967,Surgery,3,Improved
+1180,904,In-Patient Treatment,15,Improved
+1181,711,Emergency,5,Unchanged
+1182,542,Surgery,15,Improved
+1183,874,In-Patient Treatment,9,Improved
+1184,431,In-Patient Treatment,3,Unchanged
+1185,767,Surgery,13,Improved
+1186,452,In-Patient Treatment,5,Unchanged
+1187,96,Surgery,1,Deteriorated
+1188,55,Surgery,12,Unchanged
+1189,180,Emergency,3,Unchanged
+1190,684,Surgery,12,Improved
+1191,118,Emergency,12,Improved
+1192,292,Emergency,10,Unchanged
+1193,984,In-Patient Treatment,2,Improved
+1194,785,In-Patient Treatment,14,Improved
+1195,392,In-Patient Treatment,7,Unchanged
+1196,282,Emergency,5,Improved
+1197,921,In-Patient Treatment,9,Unchanged
+1198,453,In-Patient Treatment,7,Unchanged
+1199,364,In-Patient Treatment,10,Unchanged
+1200,991,Emergency,3,Unchanged
+1201,607,Surgery,7,Unchanged
+1202,382,Surgery,6,Unchanged
+1203,285,In-Patient Treatment,4,Improved
+1204,182,Surgery,6,Improved
+1205,548,Emergency,12,Unchanged
+1206,561,Emergency,5,Unchanged
+1207,881,Emergency,9,Improved
+1208,980,In-Patient Treatment,14,Improved
+1209,405,Surgery,4,Improved
+1210,639,In-Patient Treatment,2,Improved
+1211,625,In-Patient Treatment,11,Unchanged
+1212,190,Emergency,3,Deteriorated
+1213,138,In-Patient Treatment,10,Improved
+1214,683,In-Patient Treatment,7,Improved
+1215,443,Emergency,11,Improved
+1216,304,In-Patient Treatment,3,Unchanged
+1217,750,Emergency,9,Improved
+1218,316,Emergency,3,Improved
+1219,823,Emergency,10,Improved
+1220,905,Emergency,15,Improved
+1221,90,Emergency,9,Improved
+1222,466,Emergency,4,Improved
+1223,768,Emergency,14,Improved
+1224,857,Emergency,6,Improved
+1225,603,Emergency,10,Improved
+1226,78,Surgery,3,Unchanged
+1227,897,In-Patient Treatment,11,Unchanged
+1228,476,In-Patient Treatment,6,Unchanged
+1229,814,Surgery,6,Unchanged
+1230,911,In-Patient Treatment,5,Improved
+1231,488,In-Patient Treatment,11,Improved
+1232,260,Emergency,13,Improved
+1233,415,In-Patient Treatment,11,Unchanged
+1234,908,In-Patient Treatment,2,Deteriorated
+1235,770,Surgery,7,Improved
+1236,220,Emergency,12,Improved
+1237,314,In-Patient Treatment,9,Improved
+1238,692,Surgery,6,Unchanged
+1239,782,Surgery,4,Improved
+1240,463,In-Patient Treatment,15,Improved
+1241,493,In-Patient Treatment,2,Improved
+1242,896,Surgery,11,Improved
+1243,978,Emergency,9,Unchanged
+1244,516,Emergency,5,Improved
+1245,330,Surgery,10,Unchanged
+1246,587,Emergency,15,Improved
+1247,438,In-Patient Treatment,5,Unchanged
+1248,869,Emergency,3,Unchanged
+1249,473,In-Patient Treatment,6,Improved
+1250,403,Emergency,15,Improved
+1251,487,Emergency,4,Unchanged
+1252,7,In-Patient Treatment,4,Improved
+1253,559,Emergency,8,Unchanged
+1254,45,In-Patient Treatment,5,Unchanged
+1255,604,In-Patient Treatment,5,Unchanged
+1256,590,Emergency,13,Improved
+1257,322,In-Patient Treatment,7,Improved
+1258,665,Emergency,6,Improved
+1259,700,In-Patient Treatment,11,Improved
+1260,746,Emergency,11,Unchanged
+1261,571,Surgery,3,Unchanged
+1262,650,Emergency,14,Improved
+1263,663,In-Patient Treatment,5,Unchanged
+1264,534,Surgery,4,Improved
+1265,714,In-Patient Treatment,12,Improved
+1266,188,In-Patient Treatment,4,Deteriorated
+1267,568,In-Patient Treatment,2,Deteriorated
+1268,217,In-Patient Treatment,9,Improved
+1269,327,Surgery,5,Unchanged
+1270,215,In-Patient Treatment,4,Improved
+1271,866,Emergency,7,Improved
+1272,808,Emergency,9,Improved
+1273,472,In-Patient Treatment,8,Unchanged
+1274,203,Emergency,14,Improved
+1275,715,In-Patient Treatment,13,Improved
+1276,775,In-Patient Treatment,15,Improved
+1277,420,In-Patient Treatment,12,Unchanged
+1278,544,Surgery,4,Improved
+1279,883,Surgery,5,Improved
+1280,947,In-Patient Treatment,2,Improved
+1281,674,In-Patient Treatment,14,Improved
+1282,679,Emergency,10,Unchanged
+1283,501,In-Patient Treatment,5,Improved
+1284,429,Surgery,8,Unchanged
+1285,824,Emergency,12,Improved
+1286,470,In-Patient Treatment,5,Unchanged
+1287,839,Surgery,12,Improved
+1288,550,In-Patient Treatment,13,Improved
+1289,867,Surgery,12,Improved
+1290,993,Surgery,8,Unchanged
+1291,347,In-Patient Treatment,11,Unchanged
+1292,590,In-Patient Treatment,10,Improved
+1293,457,Surgery,12,Unchanged
+1294,95,Surgery,4,Improved
+1295,144,In-Patient Treatment,4,Improved
+1296,519,Surgery,5,Improved
+1297,906,In-Patient Treatment,13,Improved
+1298,569,In-Patient Treatment,9,Unchanged
+1299,390,Surgery,4,Improved
+1300,451,In-Patient Treatment,11,Improved
+1301,608,Surgery,9,Improved
+1302,270,In-Patient Treatment,12,Improved
+1303,348,Emergency,9,Improved
+1304,497,In-Patient Treatment,7,Improved
+1305,326,Emergency,5,Improved
+1306,428,Emergency,12,Improved
+1307,106,In-Patient Treatment,13,Improved
+1308,732,Emergency,12,Improved
+1309,677,In-Patient Treatment,6,Improved
+1310,470,In-Patient Treatment,13,Improved
+1311,674,Surgery,3,Improved
+1312,37,In-Patient Treatment,14,Improved
+1313,342,Emergency,7,Improved
+1314,793,Emergency,4,Improved
+1315,192,Emergency,7,Improved
+1316,34,In-Patient Treatment,13,Improved
+1317,269,In-Patient Treatment,6,Improved
+1318,789,In-Patient Treatment,4,Unchanged
+1319,69,Emergency,13,Improved
+1320,575,Surgery,14,Improved
+1321,355,Emergency,7,Unchanged
+1322,616,In-Patient Treatment,6,Improved
+1323,258,In-Patient Treatment,11,Unchanged
+1324,778,In-Patient Treatment,12,Improved
+1325,104,In-Patient Treatment,4,Deteriorated
+1326,496,In-Patient Treatment,13,Improved
+1327,57,In-Patient Treatment,13,Improved
+1328,460,In-Patient Treatment,9,Unchanged
+1329,231,In-Patient Treatment,13,Improved
+1330,958,In-Patient Treatment,14,Improved
+1331,299,In-Patient Treatment,5,Unchanged
+1332,783,In-Patient Treatment,11,Improved
+1333,251,In-Patient Treatment,5,Improved
+1334,915,Emergency,7,Improved
+1335,940,In-Patient Treatment,4,Improved
+1336,953,In-Patient Treatment,11,Unchanged
+1337,765,In-Patient Treatment,4,Deteriorated
+1338,933,In-Patient Treatment,7,Improved
+1339,230,In-Patient Treatment,5,Improved
+1340,506,In-Patient Treatment,8,Improved
+1341,844,Emergency,14,Improved
+1342,391,In-Patient Treatment,5,Unchanged
+1343,127,In-Patient Treatment,11,Improved
+1344,176,Surgery,9,Improved
+1345,430,In-Patient Treatment,3,Unchanged
+1346,183,In-Patient Treatment,5,Unchanged
+1347,229,Surgery,12,Improved
+1348,287,Surgery,6,Improved
+1349,240,In-Patient Treatment,6,Improved
+1350,558,In-Patient Treatment,4,Deteriorated
+1351,400,In-Patient Treatment,11,Improved
+1352,479,In-Patient Treatment,15,Improved
+1353,897,Emergency,3,Improved
+1354,650,In-Patient Treatment,11,Improved
+1355,14,In-Patient Treatment,9,Improved
+1356,344,Surgery,7,Unchanged
+1357,688,Surgery,9,Unchanged
+1358,603,In-Patient Treatment,3,Deteriorated
+1359,892,Emergency,8,Improved
+1360,644,In-Patient Treatment,7,Unchanged
+1361,641,Surgery,10,Unchanged
+1362,954,In-Patient Treatment,10,Improved
+1363,39,In-Patient Treatment,5,Improved
+1364,52,In-Patient Treatment,5,Improved
+1365,847,In-Patient Treatment,10,Unchanged
+1366,183,In-Patient Treatment,2,Improved
+1367,28,Emergency,6,Unchanged
+1368,621,Emergency,7,Improved
+1369,997,In-Patient Treatment,6,Unchanged
+1370,916,In-Patient Treatment,7,Improved
+1371,572,In-Patient Treatment,7,Unchanged
+1372,414,Surgery,15,Improved
+1373,304,Surgery,11,Unchanged
+1374,203,Surgery,11,Improved
+1375,447,Surgery,10,Improved
+1376,547,In-Patient Treatment,5,Improved
+1377,754,In-Patient Treatment,14,Improved
+1378,288,Emergency,15,Improved
+1379,385,Surgery,5,Improved
+1380,196,In-Patient Treatment,10,Unchanged
+1381,81,In-Patient Treatment,11,Improved
+1382,102,Surgery,5,Improved
+1383,170,In-Patient Treatment,3,Improved
+1384,682,In-Patient Treatment,14,Improved
+1385,419,Emergency,1,Deteriorated
+1386,444,In-Patient Treatment,15,Improved
+1387,194,In-Patient Treatment,4,Unchanged
+1388,709,Emergency,2,Improved
+1389,488,Emergency,6,Improved
+1390,500,Surgery,8,Unchanged
+1391,452,In-Patient Treatment,10,Improved
+1392,931,In-Patient Treatment,6,Improved
+1393,462,Emergency,14,Improved
+1394,78,Emergency,8,Unchanged
+1395,749,In-Patient Treatment,7,Improved
+1396,495,Emergency,4,Improved
+1397,843,In-Patient Treatment,13,Improved
+1398,838,In-Patient Treatment,5,Improved
+1399,623,In-Patient Treatment,1,Deteriorated
+1400,339,In-Patient Treatment,5,Improved
+1401,792,In-Patient Treatment,2,Improved
+1402,834,Emergency,7,Unchanged
+1403,796,Emergency,12,Improved
+1404,31,Surgery,12,Improved
+1405,756,In-Patient Treatment,9,Improved
+1406,877,In-Patient Treatment,9,Improved
+1407,368,In-Patient Treatment,6,Improved
+1408,969,In-Patient Treatment,15,Improved
+1409,990,Emergency,11,Improved
+1410,396,Emergency,3,Improved
+1411,938,Emergency,13,Improved
+1412,186,In-Patient Treatment,7,Improved
+1413,198,In-Patient Treatment,2,Improved
+1414,601,In-Patient Treatment,3,Deteriorated
+1415,257,In-Patient Treatment,12,Improved
+1416,297,Emergency,6,Unchanged
+1417,680,Surgery,6,Improved
+1418,772,In-Patient Treatment,8,Unchanged
+1419,198,Emergency,3,Unchanged
+1420,150,Emergency,10,Improved
+1421,325,In-Patient Treatment,11,Improved
+1422,753,Emergency,5,Improved
+1423,367,In-Patient Treatment,9,Improved
+1424,193,In-Patient Treatment,6,Improved
+1425,478,Emergency,10,Unchanged
+1426,922,Surgery,2,Improved
+1427,532,In-Patient Treatment,9,Improved
+1428,940,In-Patient Treatment,12,Improved
+1429,308,Surgery,14,Improved
+1430,264,Surgery,6,Unchanged
+1431,916,Emergency,4,Unchanged
+1432,134,In-Patient Treatment,12,Improved
+1433,779,Surgery,7,Improved
+1434,422,In-Patient Treatment,3,Improved
+1435,806,Emergency,7,Unchanged
+1436,880,In-Patient Treatment,3,Improved
+1437,402,Emergency,4,Improved
+1438,429,In-Patient Treatment,8,Unchanged
+1439,955,In-Patient Treatment,2,Improved
+1440,496,In-Patient Treatment,8,Unchanged
+1441,364,In-Patient Treatment,4,Improved
+1442,712,Emergency,9,Unchanged
+1443,201,Surgery,3,Improved
+1444,783,Surgery,15,Improved
+1445,110,In-Patient Treatment,7,Improved
+1446,820,Emergency,10,Unchanged
+1447,645,Emergency,2,Improved
+1448,558,In-Patient Treatment,12,Improved
+1449,292,In-Patient Treatment,12,Improved
+1450,286,Emergency,14,Improved
+1451,22,Surgery,10,Improved
+1452,618,Emergency,7,Unchanged
+1453,812,In-Patient Treatment,6,Improved
+1454,690,Emergency,14,Improved
+1455,777,In-Patient Treatment,13,Improved
+1456,832,Emergency,6,Improved
+1457,727,Emergency,7,Improved
+1458,696,In-Patient Treatment,3,Improved
+1459,832,Surgery,7,Improved
+1460,125,In-Patient Treatment,15,Improved
+1461,613,Surgery,3,Deteriorated
+1462,580,In-Patient Treatment,5,Improved
+1463,913,In-Patient Treatment,9,Improved
+1464,536,In-Patient Treatment,11,Unchanged
+1465,360,In-Patient Treatment,11,Unchanged
+1466,159,In-Patient Treatment,9,Improved
+1467,574,Emergency,4,Improved
+1468,336,Emergency,12,Unchanged
+1469,174,Emergency,12,Improved
+1470,453,In-Patient Treatment,12,Improved
+1471,281,Emergency,5,Improved
+1472,640,In-Patient Treatment,2,Improved
+1473,543,Emergency,10,Improved
+1474,449,In-Patient Treatment,7,Unchanged
+1475,630,Surgery,7,Improved
+1476,809,Emergency,4,Improved
+1477,48,Emergency,12,Improved
+1478,310,In-Patient Treatment,11,Improved
+1479,573,In-Patient Treatment,10,Unchanged
+1480,422,In-Patient Treatment,8,Improved
+1481,911,Surgery,3,Unchanged
+1482,287,Surgery,11,Improved
+1483,476,In-Patient Treatment,13,Improved
+1484,30,Emergency,7,Unchanged
+1485,20,Emergency,11,Improved
+1486,801,Emergency,10,Improved
+1487,2,In-Patient Treatment,8,Unchanged
+1488,162,In-Patient Treatment,9,Improved
+1489,318,In-Patient Treatment,12,Unchanged
+1490,111,Surgery,1,Deteriorated
+1491,266,In-Patient Treatment,11,Improved
+1492,168,In-Patient Treatment,12,Improved
+1493,279,Surgery,8,Improved
+1494,167,Emergency,4,Improved
+1495,417,Surgery,11,Unchanged
+1496,41,In-Patient Treatment,8,Unchanged
+1497,343,In-Patient Treatment,6,Improved
+1498,537,Surgery,9,Improved
+1499,821,In-Patient Treatment,9,Improved
+1500,58,In-Patient Treatment,13,Improved
+1501,366,In-Patient Treatment,5,Unchanged
+1502,866,In-Patient Treatment,3,Improved
+1503,146,In-Patient Treatment,4,Unchanged
+1504,93,Surgery,15,Improved
+1505,376,Surgery,7,Unchanged
+1506,358,Surgery,11,Improved
+1507,971,In-Patient Treatment,13,Improved
+1508,267,In-Patient Treatment,8,Improved
+1509,97,In-Patient Treatment,10,Unchanged
+1510,785,Surgery,11,Improved
+1511,192,In-Patient Treatment,9,Improved
+1512,218,Emergency,14,Improved
+1513,329,Emergency,13,Improved
+1514,628,In-Patient Treatment,9,Improved
+1515,29,In-Patient Treatment,3,Deteriorated
+1516,271,Surgery,11,Improved
+1517,471,Surgery,13,Improved
+1518,70,In-Patient Treatment,12,Improved
+1519,450,In-Patient Treatment,4,Improved
+1520,215,Surgery,15,Improved
+1521,481,In-Patient Treatment,12,Improved
+1522,330,In-Patient Treatment,3,Improved
+1523,170,In-Patient Treatment,14,Improved
+1524,719,Emergency,6,Unchanged
+1525,359,In-Patient Treatment,2,Improved
+1526,612,In-Patient Treatment,3,Deteriorated
+1527,825,In-Patient Treatment,12,Improved
+1528,934,Emergency,10,Improved
+1529,694,Surgery,8,Improved
+1530,806,Surgery,8,Improved
+1531,868,Surgery,1,Deteriorated
+1532,168,Emergency,9,Unchanged
+1533,253,In-Patient Treatment,11,Improved
+1534,559,In-Patient Treatment,8,Improved
+1535,316,Surgery,5,Improved
+1536,879,In-Patient Treatment,8,Improved
+1537,334,In-Patient Treatment,9,Improved
+1538,949,Emergency,5,Unchanged
+1539,584,In-Patient Treatment,1,Deteriorated
+1540,702,In-Patient Treatment,2,Deteriorated
+1541,397,Surgery,4,Unchanged
+1542,807,Surgery,8,Improved
+1543,271,In-Patient Treatment,6,Improved
+1544,856,Surgery,6,Improved
+1545,706,Emergency,15,Improved
+1546,126,Emergency,6,Improved
+1547,86,In-Patient Treatment,9,Unchanged
+1548,265,In-Patient Treatment,11,Unchanged
+1549,97,Emergency,10,Unchanged
+1550,936,Surgery,8,Unchanged
+1551,564,Emergency,3,Deteriorated
+1552,926,In-Patient Treatment,10,Improved
+1553,893,In-Patient Treatment,8,Unchanged
+1554,926,Surgery,2,Improved
+1555,738,In-Patient Treatment,5,Improved
+1556,153,Emergency,4,Deteriorated
+1557,970,In-Patient Treatment,9,Unchanged
+1558,647,In-Patient Treatment,4,Improved
+1559,36,Emergency,11,Improved
+1560,972,Emergency,4,Improved
+1561,653,In-Patient Treatment,12,Improved
+1562,428,In-Patient Treatment,5,Unchanged
+1563,320,Surgery,13,Improved
+1564,877,In-Patient Treatment,2,Improved
+1565,850,Emergency,11,Improved
+1566,671,Surgery,2,Improved
+1567,416,In-Patient Treatment,7,Improved
+1568,123,Surgery,3,Unchanged
+1569,729,In-Patient Treatment,6,Improved
+1570,933,Emergency,5,Improved
+1571,103,In-Patient Treatment,6,Improved
+1572,120,Surgery,8,Improved
+1573,47,In-Patient Treatment,8,Unchanged
+1574,465,In-Patient Treatment,13,Improved
+1575,973,Surgery,11,Unchanged
+1576,71,Emergency,7,Improved
+1577,762,Emergency,10,Improved
+1578,689,In-Patient Treatment,5,Improved
+1579,894,Emergency,2,Improved
+1580,225,In-Patient Treatment,3,Unchanged
+1581,501,In-Patient Treatment,11,Improved
+1582,88,Emergency,8,Improved
+1583,165,In-Patient Treatment,14,Improved
+1584,98,Surgery,14,Improved
+1585,989,Surgery,5,Unchanged
+1586,753,Emergency,3,Improved
+1587,479,Surgery,15,Improved
+1588,657,Emergency,2,Deteriorated
+1589,600,In-Patient Treatment,7,Improved
+1590,829,Emergency,14,Improved
+1591,767,In-Patient Treatment,8,Improved
+1592,871,In-Patient Treatment,7,Unchanged
+1593,206,Surgery,10,Unchanged
+1594,703,Emergency,8,Improved
+1595,993,Surgery,3,Improved
+1596,74,In-Patient Treatment,3,Deteriorated
+1597,913,Emergency,2,Improved
+1598,845,In-Patient Treatment,14,Improved
+1599,792,Emergency,15,Improved
+1600,124,Emergency,11,Unchanged
+1601,103,Emergency,6,Improved
+1602,518,In-Patient Treatment,13,Improved
+1603,782,In-Patient Treatment,12,Improved
+1604,629,In-Patient Treatment,6,Improved
+1605,337,Emergency,12,Unchanged
+1606,466,Surgery,5,Improved
+1607,58,In-Patient Treatment,3,Improved
+1608,510,Emergency,6,Improved
+1609,317,Surgery,3,Improved
+1610,854,Emergency,9,Unchanged
+1611,250,Emergency,12,Improved
+1612,469,Surgery,11,Unchanged
+1613,208,In-Patient Treatment,10,Improved
+1614,118,In-Patient Treatment,12,Improved
+1615,319,In-Patient Treatment,7,Improved
+1616,880,Surgery,2,Improved
+1617,949,Surgery,14,Improved
+1618,985,Emergency,8,Unchanged
+1619,379,In-Patient Treatment,6,Improved
+1620,826,In-Patient Treatment,5,Improved
+1621,521,In-Patient Treatment,8,Unchanged
+1622,310,In-Patient Treatment,8,Unchanged
+1623,323,Emergency,15,Improved
+1624,243,Surgery,7,Improved
+1625,225,Surgery,3,Improved
+1626,299,Emergency,9,Unchanged
+1627,636,In-Patient Treatment,6,Unchanged
+1628,997,In-Patient Treatment,11,Unchanged
+1629,535,In-Patient Treatment,12,Unchanged
+1630,248,Emergency,3,Improved
+1631,698,Surgery,7,Unchanged
+1632,791,In-Patient Treatment,15,Improved
+1633,336,In-Patient Treatment,5,Improved
+1634,327,In-Patient Treatment,10,Improved
+1635,812,In-Patient Treatment,6,Unchanged
+1636,632,In-Patient Treatment,10,Unchanged
+1637,655,In-Patient Treatment,9,Improved
+1638,229,In-Patient Treatment,8,Unchanged
+1639,989,Surgery,8,Unchanged
+1640,448,Emergency,12,Improved
+1641,413,In-Patient Treatment,9,Improved
+1642,947,In-Patient Treatment,12,Unchanged
+1643,236,In-Patient Treatment,10,Improved
+1644,38,In-Patient Treatment,6,Improved
+1645,233,In-Patient Treatment,3,Unchanged
+1646,44,Emergency,3,Unchanged
+1647,725,Emergency,3,Improved
+1648,131,Emergency,12,Unchanged
+1649,315,In-Patient Treatment,11,Improved
+1650,966,Surgery,6,Improved
+1651,934,In-Patient Treatment,5,Improved
+1652,532,In-Patient Treatment,2,Improved
+1653,274,Emergency,6,Unchanged
+1654,55,Emergency,5,Improved
+1655,506,Surgery,11,Improved
+1656,515,Emergency,5,Improved
+1657,69,Surgery,3,Unchanged
+1658,415,Surgery,10,Improved
+1659,619,Emergency,15,Improved
+1660,928,Emergency,4,Improved
+1661,49,Emergency,6,Unchanged
+1662,424,Surgery,6,Improved
+1663,404,Emergency,14,Improved
+1664,157,In-Patient Treatment,14,Improved
+1665,693,Emergency,9,Unchanged
+1666,601,In-Patient Treatment,7,Improved
+1667,311,In-Patient Treatment,6,Improved
+1668,786,In-Patient Treatment,9,Improved
+1669,707,Emergency,15,Improved
+1670,284,Surgery,3,Unchanged
+1671,272,In-Patient Treatment,8,Improved
+1672,668,In-Patient Treatment,8,Unchanged
+1673,77,In-Patient Treatment,3,Deteriorated
+1674,26,Emergency,6,Improved
+1675,672,In-Patient Treatment,9,Unchanged
+1676,895,In-Patient Treatment,5,Unchanged
+1677,139,In-Patient Treatment,3,Unchanged
+1678,780,In-Patient Treatment,10,Improved
+1679,373,In-Patient Treatment,3,Improved
+1680,156,Emergency,14,Improved
+1681,142,In-Patient Treatment,12,Unchanged
+1682,734,Emergency,4,Improved
+1683,998,In-Patient Treatment,9,Improved
+1684,98,In-Patient Treatment,13,Improved
+1685,856,In-Patient Treatment,11,Improved
+1686,898,Emergency,10,Improved
+1687,482,Surgery,14,Improved
+1688,402,Surgery,4,Improved
+1689,810,Emergency,8,Unchanged
+1690,810,In-Patient Treatment,8,Improved
+1691,152,Surgery,3,Unchanged
+1692,311,Emergency,15,Improved
+1693,894,In-Patient Treatment,8,Improved
+1694,228,Surgery,6,Unchanged
+1695,121,In-Patient Treatment,7,Unchanged
+1696,11,In-Patient Treatment,9,Improved
+1697,959,In-Patient Treatment,4,Deteriorated
+1698,976,In-Patient Treatment,6,Unchanged
+1699,323,Emergency,4,Deteriorated
+1700,463,In-Patient Treatment,6,Improved
+1701,504,In-Patient Treatment,14,Improved
+1702,961,In-Patient Treatment,7,Improved
+1703,531,Emergency,13,Improved
+1704,819,Emergency,12,Improved
+1705,705,In-Patient Treatment,7,Unchanged
+1706,61,In-Patient Treatment,2,Improved
+1707,467,In-Patient Treatment,8,Improved
+1708,487,Surgery,7,Improved
+1709,514,In-Patient Treatment,4,Unchanged
+1710,412,In-Patient Treatment,12,Improved
+1711,577,In-Patient Treatment,9,Unchanged
+1712,616,Emergency,7,Improved
+1713,494,Emergency,7,Unchanged
+1714,44,In-Patient Treatment,4,Deteriorated
+1715,411,In-Patient Treatment,6,Improved
+1716,438,In-Patient Treatment,3,Deteriorated
+1717,799,Surgery,3,Improved
+1718,68,Surgery,7,Improved
+1719,128,Emergency,15,Improved
+1720,619,Emergency,13,Improved
+1721,386,In-Patient Treatment,3,Unchanged
+1722,615,Emergency,6,Improved
+1723,605,Emergency,15,Improved
+1724,861,In-Patient Treatment,7,Improved
+1725,582,Surgery,8,Improved
+1726,256,In-Patient Treatment,15,Improved
+1727,843,In-Patient Treatment,4,Unchanged
+1728,32,Emergency,2,Improved
+1729,777,Emergency,7,Improved
+1730,46,Emergency,4,Improved
+1731,680,In-Patient Treatment,6,Improved
+1732,787,Surgery,13,Improved
+1733,966,Emergency,4,Unchanged
+1734,638,In-Patient Treatment,2,Improved
+1735,825,Surgery,2,Improved
+1736,210,Emergency,14,Improved
+1737,340,In-Patient Treatment,12,Improved
+1738,371,Emergency,6,Unchanged
+1739,606,In-Patient Treatment,11,Improved
+1740,62,In-Patient Treatment,14,Improved
+1741,182,In-Patient Treatment,4,Unchanged
+1742,970,Surgery,2,Improved
+1743,223,In-Patient Treatment,7,Improved
+1744,385,Emergency,15,Improved
+1745,427,In-Patient Treatment,5,Improved
+1746,606,Emergency,12,Unchanged
+1747,284,Emergency,14,Improved
+1748,325,Emergency,9,Unchanged
+1749,275,In-Patient Treatment,12,Improved
+1750,984,Emergency,8,Unchanged
+1751,433,Surgery,6,Improved
+1752,398,Emergency,11,Improved
+1753,697,In-Patient Treatment,13,Improved
+1754,148,Surgery,14,Improved
+1755,822,In-Patient Treatment,13,Improved
+1756,195,Emergency,4,Unchanged
+1757,255,Surgery,7,Unchanged
+1758,923,In-Patient Treatment,10,Improved
+1759,361,In-Patient Treatment,10,Improved
+1760,245,In-Patient Treatment,4,Unchanged
+1761,247,Emergency,8,Improved
+1762,346,Emergency,2,Deteriorated
+1763,302,In-Patient Treatment,15,Improved
+1764,508,In-Patient Treatment,5,Improved
+1765,417,In-Patient Treatment,14,Improved
+1766,435,In-Patient Treatment,14,Improved
+1767,963,In-Patient Treatment,4,Improved
+1768,855,Surgery,3,Unchanged
+1769,252,In-Patient Treatment,3,Deteriorated
+1770,295,Surgery,12,Improved
+1771,160,Emergency,10,Improved
+1772,941,In-Patient Treatment,15,Improved
+1773,925,Emergency,11,Unchanged
+1774,138,Emergency,8,Improved
+1775,320,In-Patient Treatment,4,Improved
+1776,787,In-Patient Treatment,14,Improved
+1777,681,In-Patient Treatment,4,Improved
+1778,924,In-Patient Treatment,4,Deteriorated
+1779,764,In-Patient Treatment,8,Improved
+1780,664,In-Patient Treatment,8,Improved
+1781,815,In-Patient Treatment,13,Improved
+1782,977,In-Patient Treatment,13,Improved
+1783,776,In-Patient Treatment,15,Improved
+1784,999,In-Patient Treatment,3,Improved
+1785,593,In-Patient Treatment,13,Improved
+1786,669,Surgery,6,Improved
+1787,482,In-Patient Treatment,8,Improved
+1788,473,Emergency,8,Improved
+1789,31,In-Patient Treatment,8,Unchanged
+1790,102,Surgery,11,Improved
+1791,148,In-Patient Treatment,11,Improved
+1792,948,Surgery,13,Improved
+1793,472,Emergency,9,Improved
+1794,150,In-Patient Treatment,4,Improved
+1795,35,Surgery,3,Unchanged
+1796,695,Emergency,4,Improved
+1797,369,In-Patient Treatment,12,Improved
+1798,800,Emergency,4,Unchanged
+1799,512,Surgery,3,Improved
+1800,536,In-Patient Treatment,4,Unchanged
+1801,730,In-Patient Treatment,6,Improved
+1802,752,Emergency,3,Unchanged
+1803,568,Emergency,12,Unchanged
+1804,76,Surgery,4,Deteriorated
+1805,379,Emergency,12,Unchanged
+1806,185,In-Patient Treatment,7,Unchanged
+1807,20,Surgery,4,Unchanged
+1808,852,In-Patient Treatment,6,Improved
+1809,759,In-Patient Treatment,11,Improved
+1810,106,Emergency,5,Improved
+1811,85,Emergency,4,Deteriorated
+1812,533,In-Patient Treatment,3,Unchanged
+1813,189,Emergency,7,Unchanged
+1814,22,In-Patient Treatment,12,Unchanged
+1815,905,In-Patient Treatment,2,Improved
+1816,430,Surgery,11,Improved
+1817,932,In-Patient Treatment,11,Improved
+1818,458,In-Patient Treatment,5,Improved
+1819,944,In-Patient Treatment,9,Improved
+1820,190,Surgery,1,Deteriorated
+1821,815,In-Patient Treatment,4,Unchanged
+1822,322,In-Patient Treatment,2,Improved
+1823,648,Emergency,12,Improved
+1824,950,In-Patient Treatment,8,Improved
+1825,717,In-Patient Treatment,3,Improved
+1826,576,Emergency,2,Improved
+1827,683,In-Patient Treatment,13,Improved
+1828,766,Surgery,7,Improved
+1829,890,In-Patient Treatment,7,Improved
+1830,722,In-Patient Treatment,12,Unchanged
+1831,345,In-Patient Treatment,3,Improved
+1832,27,In-Patient Treatment,2,Improved
+1833,910,Emergency,15,Improved
+1834,185,In-Patient Treatment,11,Improved
+1835,421,In-Patient Treatment,4,Improved
+1836,329,Emergency,12,Unchanged
+1837,595,Emergency,15,Improved
+1838,88,In-Patient Treatment,6,Improved
+1839,131,In-Patient Treatment,7,Improved
+1840,912,In-Patient Treatment,4,Improved
+1841,464,In-Patient Treatment,10,Improved
+1842,309,In-Patient Treatment,12,Improved
+1843,23,Emergency,7,Unchanged
+1844,631,Surgery,4,Unchanged
+1845,549,In-Patient Treatment,12,Unchanged
+1846,722,In-Patient Treatment,7,Improved
+1847,837,In-Patient Treatment,13,Improved
+1848,42,In-Patient Treatment,4,Deteriorated
+1849,594,In-Patient Treatment,12,Improved
+1850,581,Surgery,7,Improved
+1851,409,Emergency,5,Improved
+1852,516,Surgery,7,Improved
+1853,546,Surgery,9,Improved
+1854,151,In-Patient Treatment,9,Improved
+1855,441,Emergency,14,Improved
+1856,737,In-Patient Treatment,12,Unchanged
+1857,142,In-Patient Treatment,3,Improved
+1858,13,Surgery,9,Improved
+1859,207,In-Patient Treatment,7,Improved
+1860,305,Surgery,3,Improved
+1861,434,In-Patient Treatment,2,Improved
+1862,907,Surgery,8,Unchanged
+1863,636,Surgery,14,Improved
+1864,446,Emergency,9,Unchanged
+1865,459,Emergency,15,Improved
+1866,943,In-Patient Treatment,15,Improved
+1867,474,Surgery,12,Unchanged
+1868,331,Surgery,6,Improved
+1869,670,Emergency,15,Improved
+1870,552,Emergency,11,Improved
+1871,411,Emergency,9,Improved
+1872,133,Surgery,12,Improved
+1873,589,Emergency,14,Improved
+1874,298,Surgery,13,Improved
+1875,545,Emergency,10,Improved
+1876,738,In-Patient Treatment,6,Unchanged
+1877,207,In-Patient Treatment,9,Unchanged
+1878,129,In-Patient Treatment,10,Unchanged
+1879,254,In-Patient Treatment,14,Improved
+1880,992,In-Patient Treatment,8,Unchanged
+1881,50,Emergency,3,Improved
+1882,734,In-Patient Treatment,9,Unchanged
+1883,373,In-Patient Treatment,14,Improved
+1884,675,Emergency,10,Improved
+1885,280,Surgery,7,Unchanged
+1886,688,Emergency,3,Improved
+1887,241,Surgery,5,Improved
+1888,37,Emergency,5,Unchanged
+1889,901,In-Patient Treatment,6,Unchanged
+1890,998,Emergency,2,Deteriorated
+1891,872,Emergency,8,Improved
+1892,579,In-Patient Treatment,11,Improved
+1893,930,In-Patient Treatment,9,Improved
+1894,459,Emergency,2,Improved
+1895,401,In-Patient Treatment,14,Improved
+1896,667,Emergency,9,Improved
+1897,719,In-Patient Treatment,6,Improved
+1898,929,Emergency,13,Improved
+1899,184,Emergency,9,Unchanged
+1900,754,In-Patient Treatment,3,Deteriorated
+1901,298,In-Patient Treatment,3,Unchanged
+1902,202,Emergency,4,Unchanged
+1903,566,Surgery,2,Improved
+1904,74,Surgery,1,Deteriorated
+1905,475,In-Patient Treatment,15,Improved
+1906,277,Emergency,8,Unchanged
+1907,10,In-Patient Treatment,12,Unchanged
+1908,115,In-Patient Treatment,11,Unchanged
+1909,760,In-Patient Treatment,9,Improved
+1910,335,Emergency,8,Improved
+1911,110,In-Patient Treatment,13,Improved
+1912,660,In-Patient Treatment,6,Improved
+1913,732,Emergency,15,Improved
+1914,77,Emergency,4,Improved
+1915,11,In-Patient Treatment,10,Improved
+1916,83,In-Patient Treatment,14,Improved
+1917,293,In-Patient Treatment,7,Unchanged
+1918,977,In-Patient Treatment,4,Improved
+1919,830,Emergency,4,Improved
+1920,769,In-Patient Treatment,5,Unchanged
+1921,104,Emergency,15,Improved
+1922,914,Surgery,8,Unchanged
+1923,685,In-Patient Treatment,2,Improved
+1924,49,Surgery,12,Improved
+1925,389,In-Patient Treatment,5,Improved
+1926,194,In-Patient Treatment,14,Improved
+1927,510,In-Patient Treatment,9,Improved
+1928,804,In-Patient Treatment,4,Improved
+1929,614,In-Patient Treatment,6,Improved
+1930,857,In-Patient Treatment,3,Improved
+1931,878,Emergency,3,Improved
+1932,213,Surgery,12,Improved
+1933,746,Emergency,14,Improved
+1934,749,In-Patient Treatment,8,Improved
+1935,553,Emergency,11,Improved
+1936,341,Emergency,4,Improved
+1937,991,Surgery,6,Improved
+1938,718,Surgery,5,Unchanged
+1939,675,Surgery,7,Improved
+1940,797,In-Patient Treatment,12,Unchanged
+1941,259,Emergency,5,Unchanged
+1942,161,In-Patient Treatment,9,Improved
+1943,9,Surgery,3,Improved
+1944,101,In-Patient Treatment,3,Deteriorated
+1945,847,In-Patient Treatment,10,Unchanged
+1946,799,In-Patient Treatment,9,Improved
+1947,109,Emergency,3,Unchanged
+1948,708,In-Patient Treatment,10,Unchanged
+1949,995,In-Patient Treatment,11,Improved
+1950,181,Surgery,4,Unchanged
+1951,357,Surgery,13,Improved
+1952,416,In-Patient Treatment,8,Improved
+1953,169,In-Patient Treatment,2,Deteriorated
+1954,908,Surgery,4,Unchanged
+1955,527,Surgery,6,Improved
+1956,202,Emergency,8,Improved
+1957,380,Emergency,9,Improved
+1958,751,In-Patient Treatment,5,Unchanged
+1959,923,Surgery,2,Improved
+1960,64,Emergency,1,Deteriorated
+1961,714,Emergency,9,Unchanged
+1962,982,In-Patient Treatment,14,Improved
+1963,775,Surgery,6,Improved
+1964,108,Emergency,6,Improved
+1965,808,In-Patient Treatment,8,Improved
+1966,196,Emergency,2,Improved
+1967,859,Emergency,9,Improved
+1968,554,Emergency,13,Improved
+1969,583,Emergency,15,Improved
+1970,145,Emergency,11,Improved
+1971,226,Surgery,6,Improved
+1972,852,In-Patient Treatment,9,Improved
+1973,280,In-Patient Treatment,11,Improved
+1974,737,In-Patient Treatment,11,Improved
+1975,958,Emergency,6,Improved
+1976,99,Emergency,13,Improved
+1977,363,Surgery,9,Unchanged
+1978,10,Emergency,11,Improved
+1979,757,Emergency,4,Improved
+1980,952,Surgery,4,Unchanged
+1981,25,In-Patient Treatment,7,Improved
+1982,671,Surgery,6,Improved
+1983,529,In-Patient Treatment,1,Deteriorated
+1984,542,Emergency,12,Unchanged
+1985,444,Emergency,4,Deteriorated
+1986,59,Emergency,5,Unchanged
+1987,547,In-Patient Treatment,10,Improved
+1988,423,In-Patient Treatment,9,Improved
+1989,974,Emergency,7,Improved
+1990,285,Surgery,2,Improved
+1991,259,In-Patient Treatment,15,Improved
+1992,561,Surgery,12,Unchanged
+1993,451,In-Patient Treatment,14,Improved
+1994,713,Emergency,13,Improved
+1995,70,Emergency,3,Unchanged
+1996,654,Emergency,8,Unchanged
+1997,963,Surgery,14,Improved
+1998,166,Emergency,5,Unchanged
+1999,795,Emergency,5,Unchanged
+2000,575,In-Patient Treatment,7,Improved
